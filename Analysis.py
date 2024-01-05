@@ -515,7 +515,7 @@ for i in df.index:
 image = np.array(Image.open('logo_v2.png'));
 df["Word Cloud"] = "";
 
-numRec=3;
+numRec=5;
 vectorizer=TfidfVectorizer(min_df=2, max_df=0.95, max_features=50, stop_words="english", sublinear_tf=True, ngram_range=(1,1));
 similarity=linear_kernel;
 col_name = "TF-IDF";
@@ -681,7 +681,7 @@ def buildReport(dataframe, index, tables):
     table_style = TableStyle(tableStyle);
     recTable.setStyle(table_style);
 
-    flowables.append(Paragraph("<strong>Top 3 Recommendations</strong>", sample_style_sheet["CustomParagraph1"]));
+    flowables.append(Paragraph("<strong>Top Recommendations</strong>", sample_style_sheet["CustomParagraph1"]));
     flowables.append(recTable);
 
     flowables.append(Paragraph("<strong>High Frequency Words & Most Important Features</strong>", sample_style_sheet["CustomParagraph1"]));
