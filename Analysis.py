@@ -181,8 +181,8 @@ def createTasteChart(dataframe, index, folder):
 
     if (exists(filename_chart) == True):
         print(f"{ID}: {Type} {Name} taste profile chart already exists in the Charts directory.");
-    elif Name in ["Cold Brew Style Intense"]:
-        print(filename_chart + "Not Applicable without sufficient data");
+    elif Name in ["Cold Brew Style Intense","Ice Forte","Ice Leggero"]:
+        print(filename_chart + " Not Applicable without sufficient data");
     else: 
         if Name in ["Corto","Scuro","Chiaro","Bianco Forte"]:
             col_list = ["Milky Taste","Bitterness with Milk","Roastiness with Milk","Creamy Texture"];
@@ -234,7 +234,7 @@ def dataAggregationNormalization(dataframe):
         elif dff.loc[id, "Name"] in ["Cioccolatino","Vaniglia","Nocciola","Caramello","Chiaro","Bianco Doppio"]:
             dff.loc[id, "Estimated Intensity"] = 6;
         
-        elif dff.loc[id, "Name"] in ["Cold Brew Style Intense","Carafe Pour-Over Style Mild","Golden Caramel","Sweet Vanilla","Rich Chocolate","Roasted Hazelnut"]:
+        elif dff.loc[id, "Name"] in ["Cold Brew Style Intense","Carafe Pour-Over Style Mild","Golden Caramel","Sweet Vanilla","Rich Chocolate","Roasted Hazelnut","Ice Forte","Ice Leggero"]:
             dff.loc[id, "Estimated Intensity"] = 5;
     
     # Determine Intensity Classification based on Estimated Intensity -------
@@ -571,7 +571,7 @@ def dataframeTo2DList(dataframe, index, tables):
 def buildReport(dataframe, index, tables):
     # Instantiate Report and calibrate formatting ***************************
     my_doc = SimpleDocTemplate(
-        "Guides/" + dataframe.loc[i, "ID"] + "_" + dataframe.loc[i, "Name"] + ".pdf",
+        "Guides/" + dataframe.loc[index, "ID"] + "_" + dataframe.loc[index, "Name"] + "_" + dataframe.loc[index, "Status"] + ".pdf",
         pagesize=LETTER
     );
 
@@ -597,6 +597,12 @@ def buildReport(dataframe, index, tables):
         parent=sample_style_sheet['Heading1'],
         spaceBefore=10,
         spaceAfter=10,
+    ))
+
+    sample_style_sheet.add(ParagraphStyle(
+        name='CustomHeading1', 
+        parent=sample_style_sheet['Heading1'],
+        spaceBefore=10
     ))
 
     tableStyle = [
@@ -658,7 +664,7 @@ def buildReport(dataframe, index, tables):
     # The Story (Sleeve Image, Description, Origin, Roasting) ----------------
     if (validateEmptyColumnValues(dataframe, index, ["Description","Origin","Roasting"]) == True):
     
-        flowables.append(Paragraph("The Story", sample_style_sheet['Heading1']));
+        flowables.append(Paragraph("The Story", sample_style_sheet['CustomHeading1']));
 
         # Sleeve Image:
         img_sleeve = add_image_to_report(dataframe.loc[i, "Sleeve Image"], 200, 100);
