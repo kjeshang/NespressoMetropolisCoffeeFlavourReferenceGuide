@@ -107,11 +107,28 @@ The textual data was collected manually from the official Nestle Nespresso Canad
     |Bitterness with Milk Classification|Text|Not Null|Low, Medium, High|
     |Creamy Texture Classification|Text|Not Null|Low, Medium, High|
     |Textual Info|Text|Not Null|Pre-processed textual features|
-8. 
-
-
-
-
+8. Create Word Cloud
+    * Create word cloud that show the most significant & descriptive textual features.
+    * Export the word cloud as a PNG image and save it in the Charts directory.
+9. Generate Recommendations
+    * Define the number of top recommendations for a given coffee; i.e., 5.
+    * Create an empty Python list that will save the top recommendations of a given coffee.
+    * Construct a Term-Frequency Inverse Frequency (TF-IDF) vectorizer that would be used to transform the information in the **Textual Info** column into a pair-wise matrix.
+    * Use the linear kernel/cosine similarity to calculate similarity score for the given coffee. The similarity score range is from 0 to 1. The ***closer the similarity score is to 1, the more similar the recommended coffee is to the given coffee***. On the other hand, ***closer the similarity score is to 0, the less similar the recommended coffee is to the given coffee***.
+    * Save the top five recommendations of the given coffee in a Pandas dataframe, and place it in the recommendation tables Python list.
+10. Create Feature Results Chart
+    * Construct a Term-Frequency Inverse Frequency (TF-IDF) vectorizer that would be used to transform the information in the **Textual Info** column into a matrix.
+    * Convert the matrix to features dataframe which would contain the textual feature as the index and a normalized TF-IDF 'frequency' score. Sort the features dataframe by descending order of TF-IDF score, and only include textual features that have a TF-IDF score of greater than 0.
+    * Use the aforementioned dataframe to construct a horizontal bar chart showing the most important textual features of the given coffee, and export it to a PNG image.
+    * Save the PNG image to the Charts directory.
+11. Create Report
+    * Using the all of the charts, images, and information from the dataset, create a letter-size PDF report (i.e., coffee flavour reference guide).
+    * Instantiate a filename for the report
+    * Pre-set dimensions of images, and prepare recommendation tables to be converted to 2D lists, which would then be converted to a table in the report.
+    * Create headings, and customize font settings, as well as spacing when necessary.
+    * In the event that information from the dataset for a given coffee is NULL/Not Applicable, do not include it in the report, which also includes headings.
+    * Build report for given coffee, and save it to the Guides directory.
+12. Export final dataset as an Excel workbook.
 
 
 
