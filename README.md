@@ -1,4 +1,3 @@
-![Nespresso Logo](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/image.png?raw=true)
 # NespressoMetropolisCoffeeFlavourReferenceGuide
 > **Kunal Jeshang - Team Leader** *(Project Timeline: December 2023 -- February 2024)*
 
