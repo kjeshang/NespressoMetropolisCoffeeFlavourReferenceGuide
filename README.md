@@ -1,10 +1,15 @@
 # NespressoMetropolisCoffeeFlavourReferenceGuide
 > **Kunal Jeshang - Team Leader** *(Project Timeline: December 2023 -- February 2024)*
 
+[Click Here](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main/Guides) to see the Coffee Flavour Reference Guides. For further insight regarding this project, keep reading! :)
+
 ## Table of Contents
 1. [Premise](#Premise)
 2. [Project Structure](#Project-Structure)
-3. 
+3. [Technology Requirements](#Technology-Requirements)
+4. [Data Collection](#Data-Collection)
+5. [Analysis Process Flow](#Analysis-Process-Flow)
+6. [Conclusion](#Conclusion)
 
 ## Premise
 This project was inspired by the [Nespresso Metropolis Training App](https://github.com/kjeshang/NespressoMetropolisTrainingApp) project, as well as the day-to-day aspects of providing recommendations to customers regarding our coffee lineup. The drawback of the aforementioned project was that it was far too gradiose and could not be put into production/functional use for the business operations. Furthermore, as it was a custom made web application, the challenge in adopting it would be receiving corporate level approval to perform technology stack setup and server deployment costs. A decisive reason why I decided to embark on this project was due to my promotion from Coffee Specialist to Team Leader, which at times requires me to become an adept knowledge expert for both the customer and the other coffee specialists. As a newly-promoted & inexperienced Team Leader during a busy season, it was important to "hit-the-ground running" and make a positive impact to support the team. Thus, I wanted to create a coffee flavour reference guide that I can easily access on my mobile phone to provide answers to questions that I may not know already. When conceptualizing the project, I initally thought that I could code an Android mobile application with CRUD functionality, akin to the [Staples Marine Way Associate Companion App](https://github.com/kjeshang/StaplesMarineWayAssociateCompanionMobileApp). However with Nespresso having a smaller-concise product lineup, I felt that this would not be necessary and coding an Android application would require a long development time. Therefore, I decided to create static reference guides for each coffee flavour on the Nespresso menu, which are saved in a folder directory app on my mobile phone and can be retrieved quickly using the built-in search bar feature (i.e., keyword/document name search). Using Python programming, the reference guides would be procedurally generated as PDF documents with an Excel workbook as the data source. A reference guide for a given coffee would contain general information, taste profile description & metrics, and feature results & recommendations.
@@ -15,12 +20,13 @@ Below is a table that contains important files and directories that were a part 
 |File/Folder|Description|
 |--|--|
 |[Charts folder](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main/Charts)|Directory containing taste profile, word cloud, and feature results charts|
-|[Guides folder](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main/Guides)|Directory containing coffee flavour reference guides that are in PDF file format.|
-|Images folder|Directory containing PNG images of coffee capsules and sleeves.|
-|Analysis.ipynb|Jupyter Notebook containing project codebase.|
-|Data.xlsx|Cleaned final dataset, which also contains aggregated/normalized and NLP pre-processed data.|
-|RawData.xlsx|Raw dataset containing information about the coffee flavours.|
-|logo_v2.png|Nespresso "N" Logo which is used as a base for the word cloud charts.|
+|[**Guides folder**](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main/Guides)|Directory containing coffee flavour reference guides that are in PDF file format.|
+|[Images folder](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main/Images)|Directory containing PNG images of coffee capsules and sleeves.|
+|[Analysis.ipynb](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Analysis.ipynb)|Jupyter Notebook containing project codebase.|
+|[Analysis.py](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Analysis.py)|Python script containing project codebase (for easy reading).|
+|[Data.xlsx](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Data.xlsx)|Cleaned final dataset, which also contains aggregated/normalized and NLP pre-processed data.|
+|[RawData.xlsx](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/RawData.xlsx)|Raw dataset containing information about the coffee flavours.|
+|[logo_v2.png](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/logo_v2.png)|Nespresso "N" Logo which is used as a base for the word cloud charts.|
 
 ## Technology Requirements
 * Computer
