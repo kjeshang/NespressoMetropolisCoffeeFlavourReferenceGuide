@@ -1,10 +1,26 @@
 # NespressoMetropolisCoffeeFlavourReferenceGuide
-> **Kunal Jeshang - Team Leader** *(Project Timeline: December 2023 -- January 2024)*
+> **Kunal Jeshang - Team Leader** *(Project Timeline: December 2023 -- February 2024)*
 
 ## Table of Contents
+1. [Premise](#Premise)
+2. [Project Structure](#Project-Structure)
+3. 
 
-## Introduction
+## Premise
 This project was inspired by the [Nespresso Metropolis Training App](https://github.com/kjeshang/NespressoMetropolisTrainingApp) project, as well as the day-to-day aspects of providing recommendations to customers regarding our coffee lineup. The drawback of the aforementioned project was that it was far too gradiose and could not be put into production/functional use for the business operations. Furthermore, as it was a custom made web application, the challenge in adopting it would be receiving corporate level approval to perform technology stack setup and server deployment costs. A decisive reason why I decided to embark on this project was due to my promotion from Coffee Specialist to Team Leader, which at times requires me to become an adept knowledge expert for both the customer and the other coffee specialists. As a newly-promoted & inexperienced Team Leader during a busy season, it was important to "hit-the-ground running" and make a positive impact to support the team. Thus, I wanted to create a coffee flavour reference guide that I can easily access on my mobile phone to provide answers to questions that I may not know already. When conceptualizing the project, I initally thought that I could code an Android mobile application with CRUD functionality, akin to the [Staples Marine Way Associate Companion App](https://github.com/kjeshang/StaplesMarineWayAssociateCompanionMobileApp). However with Nespresso having a smaller-concise product lineup, I felt that this would not be necessary and coding an Android application would require a long development time. Therefore, I decided to create static reference guides for each coffee flavour on the Nespresso menu, which are saved in a folder directory app on my mobile phone and can be retrieved quickly using the built-in search bar feature (i.e., keyword/document name search). Using Python programming, the reference guides would be procedurally generated as PDF documents with an Excel workbook as the data source. A reference guide for a given coffee would contain general information, taste profile description & metrics, and feature results & recommendations.
+
+## Project Structure
+Below is a table that contains important files and directories that were a part of this project.
+
+|File/Folder|Description|
+|--|--|
+|[Charts folder](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main/Charts)|Directory containing taste profile, word cloud, and feature results charts|
+|[Guides folder](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main/Guides)|Directory containing coffee flavour reference guides that are in PDF file format.|
+|Images folder|Directory containing PNG images of coffee capsules and sleeves.|
+|Analysis.ipynb|Jupyter Notebook containing project codebase.|
+|Data.xlsx|Cleaned final dataset, which also contains aggregated/normalized and NLP pre-processed data.|
+|RawData.xlsx|Raw dataset containing information about the coffee flavours.|
+|logo_v2.png|Nespresso "N" Logo which is used as a base for the word cloud charts.|
 
 ## Technology Requirements
 * Computer
@@ -130,7 +146,8 @@ The textual data was collected manually from the official Nestle Nespresso Canad
     * Build report for given coffee, and save it to the Guides directory.
 12. Export final dataset as an Excel workbook.
 
-
+## Conclusion
+After the analysis code was fully executed and all coffee flavour reference guides were procedurly generated, the reference guides were transferred to my Apple iPhone. I keep my phone handy and in my pocket at all times during my workday, thus having these documents accessible at a moments notice can be advantagous; especially when handling customers that want both high level and quick answers. Also, I may not always have time to access a computer with such documents as busy workdays may have all cash counters/tills occupied, and going into the office to check information then coming back outside is not ideal. I access them via the [PDF Expert](https://apps.apple.com/us/app/pdf-expert-editor-reader/id743974925) mobile application. This application is similar to any other file management mobile application. A reason why I chose to use this application was that it is isolated from the native Apple Files application, and has advanced PDF viewing and editing features, along with the a built-in filename/keyword search feature. Therefore, I only need to type in the name of the coffee, and all related documents containing the what I typed would appear (i.e., akin to a wild card search). Working on this project was fruitful because I exercised my programming ability, learnt how to use a new programming package for automated document generation (i.e., ReportLab), and studied the product lineup to enrich my knowledge for the purpose of contributing to my workplace.
 
 
 
