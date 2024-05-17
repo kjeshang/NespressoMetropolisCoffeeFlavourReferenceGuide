@@ -22,6 +22,7 @@ import base64
 
 import imageio
 import pillow_avif
+from wand.image import Image as WandImage
 
 from os.path import exists
 
@@ -34,8 +35,13 @@ from nltk.stem import WordNetLemmatizer
 from nltk import pos_tag
 import re
 lemmatizer = WordNetLemmatizer()
-import en_core_web_sm
-nlp = en_core_web_sm.load()
+# import en_core_web_sm
+# nlp = en_core_web_sm.load()
+import spacy
+# spacy.cli.download("en_core_web_sm")
+nlp = spacy.load("en_core_web_sm")
+# nltk.download('punkt')
+# nltk.download('averaged_perceptron_tagger')
 
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
@@ -54,14 +60,34 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.platypus import Paragraph
 from reportlab.platypus import Image as IMG
 from reportlab.lib import colors
+import time
 
 # %% [markdown]
-# # Import Dataset
+# # Import Dataset and Instantiate Constant Variables
 
 # %%
-dataset_filename = "RawData.xlsx"
+# dataset_filename = "RawData.xlsx"
 
-df_raw = pd.read_excel(dataset_filename);
+# df_raw = pd.read_excel(dataset_filename);
+# print(df_raw.info());
+# df_raw.head()
+
+dataset_filename = "RawData_v2.xlsx";
+
+ice_coffee_list = ["Cold Brew Style Intense","Ice Forte","Ice Leggero","Sunny Almond Vanilla Over Ice","Tropical Coconut Flavour Over Ice","Freddo Intenso","Freddo Delicato","Coconut Flavour Over Ice"];
+milky_coffee_list = ["Corto","Scuro","Chiaro","Bianco Forte"];
+
+coffee_that_need_unique_name = ["Peru Organic","Ethiopia"];
+
+coffee_estimated_intensity_eleven = ["Corto"];
+coffee_estimated_intensity_eight = ["Scuro"];
+coffee_estimated_intensity_seven = ["Carafe Pour-Over Style","Bianco Piccolo","Bianco Forte","Ice Forte","Filter Style Intense","Freddo Intenso"];
+coffee_estimated_intensity_six = ["Cioccolatino","Vaniglia","Nocciola","Caramello","Chiaro","Bianco Doppio","Vivida"];
+coffee_estimated_intensity_five =["Cold Brew Style Intense","Carafe Pour-Over Style Mild","Golden Caramel","Sweet Vanilla","Rich Chocolate","Roasted Hazelnut","Ice Leggero","Infinitely Gourmet","Sunny Almond Vanilla Over Ice","Tropical Coconut Flavour Over Ice","Filter Style Mild","Freddo Delicato","Coconut Flavour Over Ice"];
+
+df_original = pd.read_excel(dataset_filename, index_col=False, sheet_name="Original");
+df_vertuo = pd.read_excel(dataset_filename, index_col=False, sheet_name="Vertuo");
+df_raw = pd.concat([df_original, df_vertuo]).reset_index(drop=True);
 print(df_raw.info());
 df_raw.head()
 
@@ -130,6 +156,7 @@ def convert_image(dataframe, index, input_folder, output_folder, imageType):
             
             webp_image = Image.open(rawImage+".webp");
             webp_image.save(convertedImage+".png", "PNG");
+            # webp_image.close();
 
             dataframe.loc[index, f"{imageType} Image"] = convertedImage+".png";
             
@@ -139,9 +166,14 @@ def convert_image(dataframe, index, input_folder, output_folder, imageType):
             
             # avif_image = imageio.imread(rawImage+".avif");
             # imageio.imwrite(convertedImage+".png", avif_image, format="PNG");
+            
+            with WandImage(filename=rawImage+".avif") as avif_image:
+                avif_image.format = "png";
+                avif_image.save(filename=convertedImage+".png");
 
-            webp_image = Image.open(rawImage+".avif");
-            webp_image.save(convertedImage+".png", "PNG");
+            # avif_image = Image.open(rawImage+".avif");
+            # avif_image.save(convertedImage+".png", "PNG");
+            # avif_image.close();
 
             dataframe.loc[index, f"{imageType} Image"] = convertedImage+".png";
             
@@ -151,6 +183,7 @@ def convert_image(dataframe, index, input_folder, output_folder, imageType):
 
             im = Image.open(rawImage+".jpg");
             im.save(convertedImage+".png", "PNG");
+            im.close();
         
             dataframe.loc[index, f"{imageType} Image"] = convertedImage+".png";
             
@@ -165,7 +198,7 @@ def convert_image(dataframe, index, input_folder, output_folder, imageType):
             print(f"{ID}: {Type} {Name} {imageType} RAW image already in png format; copied to Images directory.");
 
         else:
-            print(f"{ID}: {Type} {Name} {imageType} RAW image does not exist in the RawImages directory.");
+            print(f"{ID}: {Type} {Name} {imageType} RAW image does not exist in the RawImages directory, or Error in file which is causing conversion failure. Please consider converting image manually.");
 
 # %% [markdown]
 # # Create Charts
@@ -181,10 +214,10 @@ def createTasteChart(dataframe, index, folder):
 
     if (exists(filename_chart) == True):
         print(f"{ID}: {Type} {Name} taste profile chart already exists in the Charts directory.");
-    elif Name in ["Cold Brew Style Intense","Ice Forte","Ice Leggero"]:
+    elif Name in ice_coffee_list:
         print(filename_chart + " Not Applicable without sufficient data");
     else: 
-        if Name in ["Corto","Scuro","Chiaro","Bianco Forte"]:
+        if Name in milky_coffee_list:
             col_list = ["Milky Taste","Bitterness with Milk","Roastiness with Milk","Creamy Texture"];
         else:
             col_list = ["Acidity","Bitterness","Roastiness","Body"];
@@ -215,26 +248,26 @@ def dataAggregationNormalization(dataframe):
     # Create Unique Names for some flavours that share the same name ----------
     dff["Unique Name"] = dff["Name"];
     for i in dff.index:
-        if dff.loc[i, "Name"] in ["Peru Organic","Ethiopia"]:
+        if dff.loc[i, "Name"] in coffee_that_need_unique_name:
             dff.loc[i, "Unique Name"] = f"{dff.loc[i, 'Name']} ({dff.loc[i, 'Type']})";
     
     # Estimate Intensity for Coffee that do not have an prescribed level -----
     dff["Estimated Intensity"] = dff["Intensity"];
     nullIntensityRowIDs = dff[dff["Intensity"].isnull()].index.to_list();
     for id in nullIntensityRowIDs:
-        if dff.loc[id, "Name"] == "Corto":
+        if dff.loc[id, "Name"] in coffee_estimated_intensity_eleven:
             dff.loc[id, "Estimated Intensity"] = 11;
         
-        elif dff.loc[id, "Name"] == "Scuro":
+        elif dff.loc[id, "Name"] in coffee_estimated_intensity_eight:
             dff.loc[id, "Estimated Intensity"] = 8;
         
-        elif dff.loc[id, "Name"] in ["Carafe Pour-Over Style","Bianco Piccolo","Bianco Forte"]:
+        elif dff.loc[id, "Name"] in coffee_estimated_intensity_seven:
             dff.loc[id, "Estimated Intensity"] = 7;
         
-        elif dff.loc[id, "Name"] in ["Cioccolatino","Vaniglia","Nocciola","Caramello","Chiaro","Bianco Doppio"]:
+        elif dff.loc[id, "Name"] in coffee_estimated_intensity_six:
             dff.loc[id, "Estimated Intensity"] = 6;
         
-        elif dff.loc[id, "Name"] in ["Cold Brew Style Intense","Carafe Pour-Over Style Mild","Golden Caramel","Sweet Vanilla","Rich Chocolate","Roasted Hazelnut","Ice Forte","Ice Leggero"]:
+        elif dff.loc[id, "Name"] in coffee_estimated_intensity_five:
             dff.loc[id, "Estimated Intensity"] = 5;
     
     # Determine Intensity Classification based on Estimated Intensity -------
@@ -562,7 +595,7 @@ def dataframeTo2DList(dataframe, index, tables):
         table.append(tables[index].get("recommendations").columns.tolist());
         for i in range(len(recommendationTables[index].get("recommendations").values.tolist())):
             table.append(recommendationTables[index].get("recommendations").values.tolist()[i]);
-        print(f"Dataframe for {dataframe.loc[index, 'Unique Name']} recommendation results converted to 2D List.")
+        print(f"Dataframe for {dataframe.loc[index, 'Unique Name']} recommendation results converted to 2D List.");
         return table;
     else:
         print(f"Unable to create 2D List from {dataframe.loc[index, 'Unique Name']} recommendation results dataframe.")
@@ -707,7 +740,8 @@ for i in df.index:
     try:
         buildReport(df, i, recommendationTables);
         print(f"{df.loc[i, 'ID']}: {df.loc[i, 'Type']} {df.loc[i, 'Name']} - Report Generated Successfully");
-    except:
+    except Exception as e:
+        print(e);
         print(f"{df.loc[i, 'ID']}: {df.loc[i, 'Type']} {df.loc[i, 'Name']} - Error Generating Report");
 
 # %% [markdown]

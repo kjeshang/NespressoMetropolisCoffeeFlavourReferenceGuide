@@ -21,13 +21,11 @@ Below is a table that contains important files and directories that were a part 
 
 |File/Folder|Description|
 |--|--|
-|[Charts folder](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main/Charts)|Directory containing taste profile, word cloud, and feature results charts|
 |[**Guides folder**](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main/Guides)|Directory containing coffee flavour reference guides that are in PDF file format.|
-|[Images folder](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main/Images)|Directory containing PNG images of coffee capsules and sleeves.|
 |[Analysis.ipynb](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Analysis.ipynb)|Jupyter Notebook containing project codebase.|
 |[Analysis.py](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Analysis.py)|Python script containing project codebase (for easy reading).|
 |[Data.xlsx](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Data.xlsx)|Cleaned final dataset, which also contains aggregated/normalized and NLP pre-processed data.|
-|[RawData.xlsx](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/RawData.xlsx)|Raw dataset containing information about the coffee flavours.|
+|[RawData_v2.xlsx](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/RawData_v2.xlsx)|Raw dataset containing information about the coffee flavours.|
 |[logo_v2.png](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/logo_v2.png)|Nespresso "N" Logo which is used as a base for the word cloud charts.|
 
 ## Technology Requirements
