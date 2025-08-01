@@ -50,35 +50,35 @@
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 12.0,
-        "similarityScore": 0.7419
+        "similarityScore": 0.7407
       },
       {
         "uniqueName": "Corto",
         "type": "Original",
         "cupSize": "Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.6789
+        "similarityScore": 0.6781
       },
       {
         "uniqueName": "Arpeggio Decaffeinato",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.6602
+        "similarityScore": 0.6615
       },
       {
         "uniqueName": "Arpeggio",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.6371
+        "similarityScore": 0.6383
       },
       {
         "uniqueName": "Rio De Janeiro Espresso",
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.6212
+        "similarityScore": 0.6224
       }
     ]
   },
@@ -133,35 +133,35 @@
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 12.0,
-        "similarityScore": 0.7419
+        "similarityScore": 0.7407
       },
       {
         "uniqueName": "Corto",
         "type": "Original",
         "cupSize": "Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.6709
+        "similarityScore": 0.6701
       },
       {
         "uniqueName": "Miami Espresso",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.6075
+        "similarityScore": 0.6074
       },
       {
         "uniqueName": "Inspirazione Venezia",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 8.0,
-        "similarityScore": 0.6015
+        "similarityScore": 0.6031
       },
       {
         "uniqueName": "Cape Town Lungo",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": 10.0,
-        "similarityScore": 0.5964
+        "similarityScore": 0.5963
       }
     ]
   },
@@ -403,7 +403,7 @@
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.6918
+        "similarityScore": 0.692
       },
       {
         "uniqueName": "Indonesia - Fairtrade",
@@ -735,7 +735,7 @@
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": 5.0,
-        "similarityScore": 0.5771
+        "similarityScore": 0.5774
       },
       {
         "uniqueName": "Melozio Decaffeinato",
@@ -797,35 +797,35 @@
         "type": "Original",
         "cupSize": "40 ml (Espresso) & 110 (Lungo)",
         "intensity": 11.0,
-        "similarityScore": 0.7259
+        "similarityScore": 0.7262
       },
       {
         "uniqueName": "Filter Style Intense",
         "type": "Original",
         "cupSize": "150 ml (Lungo+)",
         "intensity": "",
-        "similarityScore": 0.6686
+        "similarityScore": 0.6684
       },
       {
         "uniqueName": "Fortado",
         "type": "Vertuo",
         "cupSize": "150 ml (Gran Lungo)",
         "intensity": 8.0,
-        "similarityScore": 0.6677
+        "similarityScore": 0.6679
       },
       {
         "uniqueName": "Fortado Decaffeinato",
         "type": "Vertuo",
         "cupSize": "150 ml (Gran Lungo)",
         "intensity": 8.0,
-        "similarityScore": 0.653
+        "similarityScore": 0.6532
       },
       {
         "uniqueName": "Miami Espresso",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.6483
+        "similarityScore": 0.6481
       }
     ]
   },
@@ -880,35 +880,35 @@
         "type": "Vertuo",
         "cupSize": "40 ml (Espresso)",
         "intensity": 11.0,
-        "similarityScore": 0.7316
+        "similarityScore": 0.7319
       },
       {
         "uniqueName": "Arpeggio Decaffeinato",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.6918
+        "similarityScore": 0.692
       },
       {
         "uniqueName": "Unforgettable Double Espresso",
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso)",
         "intensity": 8.0,
-        "similarityScore": 0.6877
+        "similarityScore": 0.6879
       },
       {
         "uniqueName": "Inspirazione Venezia",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 8.0,
-        "similarityScore": 0.6635
+        "similarityScore": 0.6637
       },
       {
         "uniqueName": "Istanbul Espresso",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 8.0,
-        "similarityScore": 0.654
+        "similarityScore": 0.6542
       }
     ]
   },
@@ -984,7 +984,7 @@
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.6485
+        "similarityScore": 0.6487
       },
       {
         "uniqueName": "Lisbon Bica",
@@ -1074,7 +1074,7 @@
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.654
+        "similarityScore": 0.6542
       }
     ]
   },
@@ -1219,7 +1219,7 @@
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso)",
         "intensity": 5.0,
-        "similarityScore": 0.6664
+        "similarityScore": 0.6671
       },
       {
         "uniqueName": "Altissio",
@@ -1240,7 +1240,7 @@
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": 5.0,
-        "similarityScore": 0.6044
+        "similarityScore": 0.6048
       }
     ]
   },
@@ -1256,7 +1256,7 @@
     "headline": "Round & Smooth",
     "intensity": 6.0,
     "price": 9.2,
-    "notes": NaN,
+    "notes": "",
     "taste": "Vienna’s coffeehouse tradition shaped the coffee culture of this vibrant city, known for its many recipes and the smoothness of its coffee. World Explorations Vienna Lungo recreates this balanced and pleasant Viennese taste by pairing sweet Brazilian and Colombian Arabicas, lightly roasted by our experts to enhance the malty and aromatic notes in the cup. Enjoy it like a local: Top up your Lungo with hot water for a 150ml cup and pair it with a slice of cake.",
     "tasteProfile": {
       "acidity": 1.0,
@@ -1399,14 +1399,14 @@
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": 5.0,
-        "similarityScore": 0.5671
+        "similarityScore": 0.5677
       },
       {
         "uniqueName": "Filter Style Mild",
         "type": "Original",
         "cupSize": "150 ml (Lungo+)",
         "intensity": "",
-        "similarityScore": 0.5663
+        "similarityScore": 0.5665
       }
     ]
   },
@@ -1461,35 +1461,35 @@
         "type": "Original",
         "cupSize": "150 ml (Lungo+)",
         "intensity": "",
-        "similarityScore": 0.6439
+        "similarityScore": 0.6436
       },
       {
         "uniqueName": "Capriccio",
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": 5.0,
-        "similarityScore": 0.626
+        "similarityScore": 0.6254
       },
       {
         "uniqueName": "Filter Style Intense",
         "type": "Original",
         "cupSize": "150 ml (Lungo+)",
         "intensity": "",
-        "similarityScore": 0.6001
+        "similarityScore": 0.5997
       },
       {
         "uniqueName": "Shanghai Lungo",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": 5.0,
-        "similarityScore": 0.5671
+        "similarityScore": 0.5677
       },
       {
         "uniqueName": "Toccanto",
         "type": "Vertuo",
         "cupSize": "40 ml (Espresso)",
         "intensity": 5.0,
-        "similarityScore": 0.5623
+        "similarityScore": 0.5613
       }
     ]
   },
@@ -1551,7 +1551,7 @@
         "type": "Original",
         "cupSize": "150 ml (Lungo+)",
         "intensity": "",
-        "similarityScore": 0.6517
+        "similarityScore": 0.652
       },
       {
         "uniqueName": "Costa Rica",
@@ -1572,7 +1572,7 @@
         "type": "Original",
         "cupSize": "40 ml (Espresso) & 110 (Lungo)",
         "intensity": 5.0,
-        "similarityScore": 0.6033
+        "similarityScore": 0.6038
       }
     ]
   },
@@ -1627,7 +1627,7 @@
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.7259
+        "similarityScore": 0.7262
       },
       {
         "uniqueName": "Diavolitto",
@@ -1959,35 +1959,35 @@
         "type": "Vertuo",
         "cupSize": "40 ml (Espresso) & Milk Recipes",
         "intensity": "",
-        "similarityScore": 0.6498
+        "similarityScore": 0.6504
       },
       {
         "uniqueName": "Ethiopia (Original)",
         "type": "Original",
         "cupSize": "40 ml (Espresso) & 110 (Lungo)",
         "intensity": 4.0,
-        "similarityScore": 0.6489
+        "similarityScore": 0.6494
       },
       {
         "uniqueName": "Kahawa Ya Congo (Original)",
         "type": "Original",
         "cupSize": "40 ml  (Espresso), 110 ml (Lungo)",
         "intensity": 7.0,
-        "similarityScore": 0.6434
+        "similarityScore": 0.644
       },
       {
         "uniqueName": "Kahawa Ya Congo (Vertuo)",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 6.0,
-        "similarityScore": 0.6387
+        "similarityScore": 0.6392
       },
       {
         "uniqueName": "Colombia",
         "type": "Original",
         "cupSize": "40 ml (Espresso) & 110 (Lungo)",
         "intensity": 6.0,
-        "similarityScore": 0.6232
+        "similarityScore": 0.6237
       }
     ]
   },
@@ -2070,7 +2070,7 @@
         "type": "Original",
         "cupSize": "40 ml (Espresso) & 110 (Lungo)",
         "intensity": 4.0,
-        "similarityScore": 0.6489
+        "similarityScore": 0.6494
       }
     ]
   },
@@ -2132,7 +2132,7 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.821
+        "similarityScore": 0.8212
       },
       {
         "uniqueName": "Caramello",
@@ -2146,14 +2146,14 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7858
+        "similarityScore": 0.786
       },
       {
         "uniqueName": "Peppermint Pinwheel",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.7574
+        "similarityScore": 0.7576
       }
     ]
   },
@@ -2208,21 +2208,21 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.8788
+        "similarityScore": 0.8789
       },
       {
         "uniqueName": "Almond Croissant Flavour (Original)",
         "type": "Original",
         "cupSize": "40 ml (Espresso), 110 ml (Lungo)",
         "intensity": "",
-        "similarityScore": 0.8525
+        "similarityScore": 0.8527
       },
       {
         "uniqueName": "Almond Croissant Flavour (Vertuo)",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.8027
+        "similarityScore": 0.8029
       },
       {
         "uniqueName": "Nocciola",
@@ -2305,21 +2305,21 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7943
+        "similarityScore": 0.7945
       },
       {
         "uniqueName": "Roasted Hazelnut",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7824
+        "similarityScore": 0.7825
       },
       {
         "uniqueName": "Pumpkin Spice Cake (Original)",
         "type": "Original",
         "cupSize": "110 ml (Lungo), Milk Recipes",
         "intensity": "",
-        "similarityScore": 0.7618
+        "similarityScore": 0.762
       }
     ]
   },
@@ -2374,7 +2374,7 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.8667
+        "similarityScore": 0.8669
       },
       {
         "uniqueName": "Vaniglia",
@@ -2395,14 +2395,14 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.774
+        "similarityScore": 0.7741
       },
       {
         "uniqueName": "Rich Chocolate",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7441
+        "similarityScore": 0.7443
       }
     ]
   },
@@ -2457,35 +2457,35 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee) & Iced Recipe",
         "intensity": "",
-        "similarityScore": 0.7167
+        "similarityScore": 0.7174
       },
       {
         "uniqueName": "Kazaar",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 12.0,
-        "similarityScore": 0.6789
+        "similarityScore": 0.6781
       },
       {
         "uniqueName": "Ristretto",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 10.0,
-        "similarityScore": 0.6709
+        "similarityScore": 0.6701
       },
       {
         "uniqueName": "Miami Espresso",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.6174
+        "similarityScore": 0.617
       },
       {
         "uniqueName": "Bianco Forte",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.5898
+        "similarityScore": 0.5903
       }
     ]
   },
@@ -2547,7 +2547,7 @@
         "type": "Original",
         "cupSize": "Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.566
+        "similarityScore": 0.5666
       },
       {
         "uniqueName": "Double Espresso Chiaro",
@@ -2623,35 +2623,35 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.6044
+        "similarityScore": 0.6042
       },
       {
         "uniqueName": "Bianco Piccolo",
         "type": "Vertuo",
         "cupSize": "40 ml (Espresso) & Milk Recipes",
         "intensity": "",
-        "similarityScore": 0.5773
+        "similarityScore": 0.5775
       },
       {
         "uniqueName": "Corto",
         "type": "Original",
         "cupSize": "Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.573
+        "similarityScore": 0.5732
       },
       {
         "uniqueName": "Scuro",
         "type": "Original",
         "cupSize": "Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.5297
+        "similarityScore": 0.5293
       },
       {
         "uniqueName": "Filter Style Mild",
         "type": "Original",
         "cupSize": "150 ml (Lungo+)",
         "intensity": "",
-        "similarityScore": 0.5235
+        "similarityScore": 0.5232
       }
     ]
   },
@@ -2706,35 +2706,35 @@
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso)",
         "intensity": 5.0,
-        "similarityScore": 0.6365
+        "similarityScore": 0.636
       },
       {
         "uniqueName": "Buenos Aires Lungo",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": 4.0,
-        "similarityScore": 0.626
+        "similarityScore": 0.6254
       },
       {
         "uniqueName": "Cosi",
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": 4.0,
-        "similarityScore": 0.6188
+        "similarityScore": 0.6192
       },
       {
         "uniqueName": "Vienna Lungo",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": 6.0,
-        "similarityScore": 0.6044
+        "similarityScore": 0.6048
       },
       {
         "uniqueName": "Cape Town Lungo",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": 10.0,
-        "similarityScore": 0.5771
+        "similarityScore": 0.5774
       }
     ]
   },
@@ -2817,7 +2817,7 @@
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": 4.0,
-        "similarityScore": 0.6188
+        "similarityScore": 0.6192
       }
     ]
   },
@@ -2886,14 +2886,14 @@
         "type": "Original",
         "cupSize": "40 ml (Espresso), Iced Recipe",
         "intensity": "",
-        "similarityScore": 0.6963
+        "similarityScore": 0.6966
       },
       {
         "uniqueName": "El Salvador",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 5.0,
-        "similarityScore": 0.6884
+        "similarityScore": 0.6891
       },
       {
         "uniqueName": "Stockholm Lungo",
@@ -2976,7 +2976,7 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 5.0,
-        "similarityScore": 0.5882
+        "similarityScore": 0.5888
       },
       {
         "uniqueName": "No.20 (Original)",
@@ -3038,35 +3038,35 @@
         "type": "Original",
         "cupSize": "150 ml (Lungo+)",
         "intensity": "",
-        "similarityScore": 0.6747
+        "similarityScore": 0.6745
       },
       {
         "uniqueName": "India",
         "type": "Original",
         "cupSize": "40 ml (Espresso) & 110 (Lungo)",
         "intensity": 11.0,
-        "similarityScore": 0.6517
+        "similarityScore": 0.652
       },
       {
         "uniqueName": "Buenos Aires Lungo",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": 4.0,
-        "similarityScore": 0.6439
+        "similarityScore": 0.6436
       },
       {
         "uniqueName": "Shanghai Lungo",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": 5.0,
-        "similarityScore": 0.5663
+        "similarityScore": 0.5665
       },
       {
         "uniqueName": "Alto Onice",
         "type": "Vertuo",
         "cupSize": "355 ml (Alto)",
         "intensity": 7.0,
-        "similarityScore": 0.5485
+        "similarityScore": 0.5487
       }
     ]
   },
@@ -3121,35 +3121,35 @@
         "type": "Original",
         "cupSize": "150 ml (Lungo+)",
         "intensity": "",
-        "similarityScore": 0.6747
+        "similarityScore": 0.6745
       },
       {
         "uniqueName": "Miami Espresso",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.6686
+        "similarityScore": 0.6684
       },
       {
         "uniqueName": "Bianco Forte",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.6149
+        "similarityScore": 0.6151
       },
       {
         "uniqueName": "Colombia - Fairtrade",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 5.0,
-        "similarityScore": 0.6001
+        "similarityScore": 0.6
       },
       {
         "uniqueName": "Buenos Aires Lungo",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": 4.0,
-        "similarityScore": 0.6001
+        "similarityScore": 0.5997
       }
     ]
   },
@@ -3287,35 +3287,35 @@
         "type": "Original",
         "cupSize": "",
         "intensity": 4.0,
-        "similarityScore": 0.6963
+        "similarityScore": 0.6966
       },
       {
         "uniqueName": "El Salvador",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 5.0,
-        "similarityScore": 0.6622
+        "similarityScore": 0.6618
       },
       {
         "uniqueName": "Stockholm Lungo",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": 8.0,
-        "similarityScore": 0.6031
+        "similarityScore": 0.6035
       },
       {
         "uniqueName": "Freddo Delicato",
         "type": "Original",
         "cupSize": "40 ml (Espresso), Iced Recipe",
         "intensity": "",
-        "similarityScore": 0.5317
+        "similarityScore": 0.532
       },
       {
         "uniqueName": "Bianco Doppio",
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso) & Milk Recipes",
         "intensity": "",
-        "similarityScore": 0.5271
+        "similarityScore": 0.5274
       }
     ]
   },
@@ -3370,35 +3370,35 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.779
+        "similarityScore": 0.7789
       },
       {
         "uniqueName": "Peanut & Roasted Sesame Flavour",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": "",
-        "similarityScore": 0.6984
+        "similarityScore": 0.7101
       },
       {
         "uniqueName": "Peanut and Roasted Sesame Flavour (Vertuo)",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.6727
+        "similarityScore": 0.6726
       },
       {
         "uniqueName": "Peppermint Pinwheel",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.6701
+        "similarityScore": 0.67
       },
       {
         "uniqueName": "Maple Pecan",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Iced Recipe, Milk Recipe",
         "intensity": "",
-        "similarityScore": 0.6625
+        "similarityScore": 0.6623
       }
     ]
   },
@@ -3474,7 +3474,7 @@
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso)",
         "intensity": 5.0,
-        "similarityScore": 0.6108
+        "similarityScore": 0.6114
       },
       {
         "uniqueName": "Lisbon Bica",
@@ -3785,35 +3785,35 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.9297
+        "similarityScore": 0.9296
       },
       {
         "uniqueName": "Infinitely Gourmet",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.7911
+        "similarityScore": 0.791
       },
       {
         "uniqueName": "Caramello",
         "type": "Original",
         "cupSize": "110 ml (Lungo), Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7618
+        "similarityScore": 0.762
       },
       {
         "uniqueName": "Vaniglia",
         "type": "Original",
         "cupSize": "110 ml (Lungo), Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7403
+        "similarityScore": 0.7405
       },
       {
         "uniqueName": "Almond Croissant Flavour (Original)",
         "type": "Original",
         "cupSize": "40 ml (Espresso), 110 ml (Lungo)",
         "intensity": "",
-        "similarityScore": 0.7343
+        "similarityScore": 0.7342
       }
     ]
   },
@@ -3875,7 +3875,7 @@
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso)",
         "intensity": 5.0,
-        "similarityScore": 0.7225
+        "similarityScore": 0.7232
       },
       {
         "uniqueName": "Altissio",
@@ -3958,28 +3958,28 @@
         "type": "Original",
         "cupSize": "110 ml (Lungo), Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.8525
+        "similarityScore": 0.8527
       },
       {
         "uniqueName": "Sweet Vanilla",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7725
-      },
-      {
-        "uniqueName": "Unforgettable Espresso",
-        "type": "Original",
-        "cupSize": "40 ml (Espresso)",
-        "intensity": "",
-        "similarityScore": 0.7343
+        "similarityScore": 0.7724
       },
       {
         "uniqueName": "Peanut & Roasted Sesame Flavour",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": "",
-        "similarityScore": 0.7184
+        "similarityScore": 0.7383
+      },
+      {
+        "uniqueName": "Unforgettable Espresso",
+        "type": "Original",
+        "cupSize": "40 ml (Espresso)",
+        "intensity": "",
+        "similarityScore": 0.7342
       }
     ]
   },
@@ -4014,7 +4014,7 @@
     "ingredients": "Roast and ground coffee",
     "netWeight": "49 g. - 1.72 oz. for 10 capsules",
     "uniqueName": "Peanut & Roasted Sesame Flavour",
-    "estimatedIntensity": NaN,
+    "estimatedIntensity": 5.0,
     "acidityClassification": "Medium",
     "bitternessClassification": "Low",
     "roastinessClassification": "Low",
@@ -4024,7 +4024,7 @@
     "roastinessWithMilkClassification": "Medium",
     "creamyTextureClassification": "Medium",
     "tasteProfileChart": "Charts/OL49_Peanut & Roasted Sesame Flavour_Original_Taste Profile.png",
-    "textualInfo": "original limited barista creations ml lungo cereal toasted sesame 115 cereal toastedroasted sesame peanut aromatic sweet blend notes toasted sesame caramel mix nuts including peanuts cereallike undertones oat barley add toasty nutty flavor 30 20 20 20 created collaboration chef jean imbert peanut roasted sesame flavour tribute gastronomic voyages latin american african arabicas coffee concocts notes roasted sesame popcorn mix almonds hazelnuts peanuts making unmissable coffee festive season enjoy reverso let journey taste roll blond caramel notes invitation awaken senses board nespresso festive odyssey inspired belmond journeys smooth arabica base blend made naturally sweet beans brazil lively washed beans colombia latin american beans roasted medium dark quickly develop sweetness coffees roasted bit long develop velvety texture add flavour roasting capsules roast ground coffee vanilla naturalartificial flavours roast ground coffee g 172 oz capsules peanut roasted sesame flavour dark medium low low low medium medium medium medium",
+    "textualInfo": "original limited barista creations ml lungo cereal toasted sesame 115 cereal toastedroasted sesame peanut aromatic sweet blend notes toasted sesame caramel mix nuts including peanuts cereallike undertones oat barley add toasty nutty flavor 30 20 20 20 created collaboration chef jean imbert peanut roasted sesame flavour tribute gastronomic voyages latin american african arabicas coffee concocts notes roasted sesame popcorn mix almonds hazelnuts peanuts making unmissable coffee festive season enjoy reverso let journey taste roll blond caramel notes invitation awaken senses board nespresso festive odyssey inspired belmond journeys smooth arabica base blend made naturally sweet beans brazil lively washed beans colombia latin american beans roasted medium dark quickly develop sweetness coffees roasted bit long develop velvety texture add flavour roasting capsules roast ground coffee vanilla naturalartificial flavours roast ground coffee g 172 oz capsules peanut roasted sesame flavour 50 medium medium low low low medium medium medium medium",
     "wordCloud": "Charts/OL49_Peanut & Roasted Sesame Flavour_Original_Word Cloud.png",
     "featureResults": "Charts/OL49_Peanut & Roasted Sesame Flavour_Original Feature Results.png",
     "guides": "Guides/OL49_Peanut & Roasted Sesame Flavour_Limited.pdf",
@@ -4034,35 +4034,35 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.8461
+        "similarityScore": 0.8675
       },
       {
         "uniqueName": "Peanut & Roasted Sesame Flavour",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": "",
-        "similarityScore": 0.7184
-      },
-      {
-        "uniqueName": "Gingerbread",
-        "type": "Vertuo",
-        "cupSize": "230 ml (Coffee)",
-        "intensity": "",
-        "similarityScore": 0.6999
-      },
-      {
-        "uniqueName": "Cadiz Espresso",
-        "type": "Original",
-        "cupSize": "40 ml (Espresso)",
-        "intensity": 8.0,
-        "similarityScore": 0.6984
+        "similarityScore": 0.7383
       },
       {
         "uniqueName": "Almond Croissant Flavour (Vertuo)",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.6919
+        "similarityScore": 0.7127
+      },
+      {
+        "uniqueName": "Gingerbread",
+        "type": "Vertuo",
+        "cupSize": "230 ml (Coffee)",
+        "intensity": "",
+        "similarityScore": 0.711
+      },
+      {
+        "uniqueName": "Cadiz Espresso",
+        "type": "Original",
+        "cupSize": "40 ml (Espresso)",
+        "intensity": 8.0,
+        "similarityScore": 0.7101
       }
     ]
   },
@@ -4117,35 +4117,35 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 7.0,
-        "similarityScore": 0.7593
+        "similarityScore": 0.7595
       },
       {
         "uniqueName": "Fortado Decaffeinato",
         "type": "Vertuo",
         "cupSize": "150 ml (Gran Lungo)",
         "intensity": 8.0,
-        "similarityScore": 0.7296
+        "similarityScore": 0.7298
       },
       {
         "uniqueName": "Diavolitto",
         "type": "Vertuo",
         "cupSize": "40 ml (Espresso)",
         "intensity": 11.0,
-        "similarityScore": 0.7246
+        "similarityScore": 0.7248
       },
       {
         "uniqueName": "Fortado",
         "type": "Vertuo",
         "cupSize": "150 ml (Gran Lungo)",
         "intensity": 8.0,
-        "similarityScore": 0.7185
+        "similarityScore": 0.7187
       },
       {
         "uniqueName": "Inspirazione Roma",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 8.0,
-        "similarityScore": 0.6461
+        "similarityScore": 0.6462
       }
     ]
   },
@@ -4283,7 +4283,7 @@
         "type": "Vertuo",
         "cupSize": "40 ml (Espresso)",
         "intensity": 11.0,
-        "similarityScore": 0.7271
+        "similarityScore": 0.7273
       },
       {
         "uniqueName": "Odacio",
@@ -4366,7 +4366,7 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 8.0,
-        "similarityScore": 0.7593
+        "similarityScore": 0.7595
       },
       {
         "uniqueName": "Indonesia - Fairtrade",
@@ -4477,7 +4477,7 @@
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso)",
         "intensity": 5.0,
-        "similarityScore": 0.6021
+        "similarityScore": 0.6027
       }
     ]
   },
@@ -4546,7 +4546,7 @@
         "type": "Vertuo",
         "cupSize": "535 ml (Carafe)",
         "intensity": "",
-        "similarityScore": 0.6067
+        "similarityScore": 0.6068
       },
       {
         "uniqueName": "Kahawa Ya Congo (Vertuo)",
@@ -4615,35 +4615,35 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 5.0,
-        "similarityScore": 0.6804
+        "similarityScore": 0.6796
       },
       {
         "uniqueName": "Colombia - Fairtrade",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 5.0,
-        "similarityScore": 0.6454
+        "similarityScore": 0.6442
       },
       {
         "uniqueName": "Carafe Pour-Over Style Mild",
         "type": "Vertuo",
         "cupSize": "535 ml (Carafe)",
         "intensity": "",
-        "similarityScore": 0.5966
+        "similarityScore": 0.5964
       },
       {
         "uniqueName": "Solelio",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 2.0,
-        "similarityScore": 0.5726
+        "similarityScore": 0.5735
       },
       {
         "uniqueName": "Half Caffeinato",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 5.0,
-        "similarityScore": 0.5548
+        "similarityScore": 0.5556
       }
     ]
   },
@@ -4698,35 +4698,35 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 5.0,
-        "similarityScore": 0.7431
+        "similarityScore": 0.7425
       },
       {
         "uniqueName": "Volluto Decaffeinato",
         "type": "Original",
         "cupSize": "",
         "intensity": 4.0,
-        "similarityScore": 0.6884
+        "similarityScore": 0.6891
       },
       {
         "uniqueName": "El Salvador",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 5.0,
-        "similarityScore": 0.6804
+        "similarityScore": 0.6796
       },
       {
         "uniqueName": "Coconut Flavour Over Ice",
         "type": "Original",
         "cupSize": "40 ml (Espresso), Iced Recipe",
         "intensity": "",
-        "similarityScore": 0.6622
+        "similarityScore": 0.6618
       },
       {
         "uniqueName": "Filter Style Mild",
         "type": "Original",
         "cupSize": "150 ml (Lungo+)",
         "intensity": "",
-        "similarityScore": 0.5882
+        "similarityScore": 0.5888
       }
     ]
   },
@@ -4781,35 +4781,35 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 5.0,
-        "similarityScore": 0.7431
+        "similarityScore": 0.7425
       },
       {
         "uniqueName": "El Salvador",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 5.0,
-        "similarityScore": 0.6454
+        "similarityScore": 0.6442
       },
       {
         "uniqueName": "Freddo Intenso",
         "type": "Original",
         "cupSize": "40 ml (Espresso), Iced Recipe",
         "intensity": "",
-        "similarityScore": 0.6001
+        "similarityScore": 0.6
       },
       {
         "uniqueName": "Carafe Pour-Over Style",
         "type": "Vertuo",
         "cupSize": "535 ml (Carafe)",
         "intensity": "",
-        "similarityScore": 0.5272
+        "similarityScore": 0.5284
       },
       {
         "uniqueName": "Ristretto",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 10.0,
-        "similarityScore": 0.5249
+        "similarityScore": 0.5225
       }
     ]
   },
@@ -4864,7 +4864,7 @@
         "type": "Vertuo",
         "cupSize": "535 ml (Carafe)",
         "intensity": "",
-        "similarityScore": 0.6331
+        "similarityScore": 0.6333
       },
       {
         "uniqueName": "Mexico",
@@ -4892,7 +4892,7 @@
         "type": "Vertuo",
         "cupSize": "40 ml (Espresso)",
         "intensity": 11.0,
-        "similarityScore": 0.5847
+        "similarityScore": 0.5849
       }
     ]
   },
@@ -4947,7 +4947,7 @@
         "type": "Vertuo",
         "cupSize": "355 ml (Cold Brew)",
         "intensity": "",
-        "similarityScore": 0.7018
+        "similarityScore": 0.702
       },
       {
         "uniqueName": "Orafio",
@@ -5037,14 +5037,14 @@
         "type": "Vertuo",
         "cupSize": "535 ml (Carafe)",
         "intensity": "",
-        "similarityScore": 0.6466
+        "similarityScore": 0.6468
       },
       {
         "uniqueName": "Double Espresso Dolce",
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso)",
         "intensity": 5.0,
-        "similarityScore": 0.6309
+        "similarityScore": 0.6315
       },
       {
         "uniqueName": "Alto Onice",
@@ -5113,35 +5113,35 @@
         "type": "Vertuo",
         "cupSize": "355 ml (Alto)",
         "intensity": 4.0,
-        "similarityScore": 0.7018
+        "similarityScore": 0.702
       },
       {
         "uniqueName": "Peanut and Roasted Sesame Flavour (Vertuo)",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.6279
+        "similarityScore": 0.6277
       },
       {
         "uniqueName": "Stormio",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 8.0,
-        "similarityScore": 0.5962
+        "similarityScore": 0.5959
       },
       {
         "uniqueName": "Bianco Piccolo",
         "type": "Vertuo",
         "cupSize": "40 ml (Espresso) & Milk Recipes",
         "intensity": "",
-        "similarityScore": 0.5812
+        "similarityScore": 0.5814
       },
       {
         "uniqueName": "Lisbon Bica",
         "type": "Original",
         "cupSize": "25 ml (Ristretto)",
         "intensity": 10.0,
-        "similarityScore": 0.5531
+        "similarityScore": 0.5533
       }
     ]
   },
@@ -5210,21 +5210,21 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 2.0,
-        "similarityScore": 0.5272
+        "similarityScore": 0.5284
       },
       {
         "uniqueName": "Maple Pecan",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Iced Recipe, Milk Recipe",
         "intensity": "",
-        "similarityScore": 0.4976
+        "similarityScore": 0.4978
       },
       {
         "uniqueName": "El Salvador",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 5.0,
-        "similarityScore": 0.4581
+        "similarityScore": 0.4588
       }
     ]
   },
@@ -5279,35 +5279,35 @@
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso)",
         "intensity": 5.0,
-        "similarityScore": 0.6515
+        "similarityScore": 0.6513
       },
       {
         "uniqueName": "Cold Brew Style Intense",
         "type": "Vertuo",
         "cupSize": "355 ml (Cold Brew)",
         "intensity": "",
-        "similarityScore": 0.6466
+        "similarityScore": 0.6468
       },
       {
         "uniqueName": "Alto Onice",
         "type": "Vertuo",
         "cupSize": "355 ml (Alto)",
         "intensity": 7.0,
-        "similarityScore": 0.6331
+        "similarityScore": 0.6333
       },
       {
         "uniqueName": "Half Caffeinato",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 5.0,
-        "similarityScore": 0.6067
+        "similarityScore": 0.6068
       },
       {
         "uniqueName": "Unforgettable Double Espresso",
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso)",
         "intensity": 8.0,
-        "similarityScore": 0.6053
+        "similarityScore": 0.6055
       }
     ]
   },
@@ -5376,14 +5376,14 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 8.0,
-        "similarityScore": 0.7185
+        "similarityScore": 0.7187
       },
       {
         "uniqueName": "Miami Espresso",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.6677
+        "similarityScore": 0.6679
       },
       {
         "uniqueName": "Indonesia - Fairtrade",
@@ -5459,14 +5459,14 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 8.0,
-        "similarityScore": 0.7296
+        "similarityScore": 0.7298
       },
       {
         "uniqueName": "Miami Espresso",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.653
+        "similarityScore": 0.6532
       },
       {
         "uniqueName": "Indonesia - Fairtrade",
@@ -5545,18 +5545,18 @@
         "similarityScore": 0.6082
       },
       {
+        "uniqueName": "Ethiopia (Original)",
+        "type": "Original",
+        "cupSize": "40 ml (Espresso) & 110 (Lungo)",
+        "intensity": 4.0,
+        "similarityScore": 0.5924
+      },
+      {
         "uniqueName": "Pumpkin Spice Cake (Original)",
         "type": "Original",
         "cupSize": "110 ml (Lungo), Milk Recipes",
         "intensity": "",
         "similarityScore": 0.5921
-      },
-      {
-        "uniqueName": "Ethiopia (Original)",
-        "type": "Original",
-        "cupSize": "40 ml (Espresso) & 110 (Lungo)",
-        "intensity": 4.0,
-        "similarityScore": 0.592
       }
     ]
   },
@@ -5860,35 +5860,35 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 7.0,
-        "similarityScore": 0.7271
+        "similarityScore": 0.7273
       },
       {
         "uniqueName": "Rio De Janeiro Espresso",
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.6141
+        "similarityScore": 0.6139
       },
       {
         "uniqueName": "Inspirazione Roma",
         "type": "Original",
         "cupSize": "25 ml (Ristretto) & 40 ml (Espresso)",
         "intensity": 8.0,
-        "similarityScore": 0.6099
+        "similarityScore": 0.61
       },
       {
         "uniqueName": "Alto Onice",
         "type": "Vertuo",
         "cupSize": "355 ml (Alto)",
         "intensity": 7.0,
-        "similarityScore": 0.5847
+        "similarityScore": 0.5849
       },
       {
         "uniqueName": "Bianco Doppio",
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso) & Milk Recipes",
         "intensity": "",
-        "similarityScore": 0.5559
+        "similarityScore": 0.5561
       }
     ]
   },
@@ -5964,14 +5964,14 @@
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.7316
+        "similarityScore": 0.7319
       },
       {
         "uniqueName": "Stormio",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 8.0,
-        "similarityScore": 0.7246
+        "similarityScore": 0.7248
       }
     ]
   },
@@ -6137,7 +6137,7 @@
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso)",
         "intensity": 5.0,
-        "similarityScore": 0.6622
+        "similarityScore": 0.6628
       }
     ]
   },
@@ -6303,7 +6303,7 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 8.0,
-        "similarityScore": 0.6006
+        "similarityScore": 0.6008
       }
     ]
   },
@@ -6358,35 +6358,35 @@
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso)",
         "intensity": 5.0,
-        "similarityScore": 0.6095
+        "similarityScore": 0.6086
       },
       {
         "uniqueName": "Volluto",
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": 4.0,
-        "similarityScore": 0.5834
+        "similarityScore": 0.5842
       },
       {
         "uniqueName": "Buenos Aires Lungo",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": 4.0,
-        "similarityScore": 0.5623
+        "similarityScore": 0.5613
       },
       {
         "uniqueName": "Cioccolatino",
         "type": "Original",
         "cupSize": "110 ml (Lungo), Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.5275
+        "similarityScore": 0.5282
       },
       {
         "uniqueName": "Double Espresso Chiaro",
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso)",
         "intensity": 8.0,
-        "similarityScore": 0.5258
+        "similarityScore": 0.5265
       }
     ]
   },
@@ -6462,7 +6462,7 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 5.0,
-        "similarityScore": 0.5514
+        "similarityScore": 0.5522
       },
       {
         "uniqueName": "Bianco Doppio",
@@ -6635,7 +6635,7 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 8.0,
-        "similarityScore": 0.6062
+        "similarityScore": 0.6063
       }
     ]
   },
@@ -6690,35 +6690,35 @@
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso)",
         "intensity": 8.0,
-        "similarityScore": 0.7369
+        "similarityScore": 0.7376
       },
       {
         "uniqueName": "Almond Croissant Flavour (Original)",
         "type": "Original",
         "cupSize": "40 ml (Espresso), 110 ml (Lungo)",
         "intensity": "",
-        "similarityScore": 0.7225
+        "similarityScore": 0.7232
       },
       {
         "uniqueName": "Vienna Lungo",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": 6.0,
-        "similarityScore": 0.6664
+        "similarityScore": 0.6671
       },
       {
         "uniqueName": "Peru Organic (Vertuo)",
         "type": "Vertuo",
         "cupSize": "40 ml (Espresso)",
         "intensity": 6.0,
-        "similarityScore": 0.6622
+        "similarityScore": 0.6628
       },
       {
         "uniqueName": "Fortado",
         "type": "Vertuo",
         "cupSize": "150 ml (Gran Lungo)",
         "intensity": 8.0,
-        "similarityScore": 0.6515
+        "similarityScore": 0.6513
       }
     ]
   },
@@ -6780,7 +6780,7 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.8477
+        "similarityScore": 0.8476
       },
       {
         "uniqueName": "Peppermint Pinwheel",
@@ -6794,14 +6794,14 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Iced Recipe, Milk Recipe",
         "intensity": "",
-        "similarityScore": 0.8004
+        "similarityScore": 0.8003
       },
       {
         "uniqueName": "Vaniglia",
         "type": "Original",
         "cupSize": "110 ml (Lungo), Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7858
+        "similarityScore": 0.786
       }
     ]
   },
@@ -6856,7 +6856,7 @@
         "type": "Original",
         "cupSize": "Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.8667
+        "similarityScore": 0.8669
       },
       {
         "uniqueName": "Golden Caramel",
@@ -6870,21 +6870,21 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.853
+        "similarityScore": 0.8529
       },
       {
         "uniqueName": "Peppermint Pinwheel",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.7587
+        "similarityScore": 0.7586
       },
       {
         "uniqueName": "Sweet Vanilla",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7188
+        "similarityScore": 0.7187
       }
     ]
   },
@@ -6939,35 +6939,35 @@
         "type": "Original",
         "cupSize": "110 ml (Lungo), Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.8788
+        "similarityScore": 0.8789
       },
       {
         "uniqueName": "Almond Croissant Flavour (Vertuo)",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.8089
+        "similarityScore": 0.8088
       },
       {
         "uniqueName": "Sunny Almond Vanilla Over Ice",
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso), Iced Recipe",
         "intensity": "",
-        "similarityScore": 0.7755
+        "similarityScore": 0.7754
       },
       {
         "uniqueName": "Peanut & Roasted Sesame Flavour",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": "",
-        "similarityScore": 0.7725
+        "similarityScore": 0.7724
       },
       {
         "uniqueName": "Sweet Vanilla",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7188
+        "similarityScore": 0.7187
       }
     ]
   },
@@ -7022,21 +7022,21 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.853
+        "similarityScore": 0.8529
       },
       {
         "uniqueName": "Golden Caramel",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.8477
+        "similarityScore": 0.8476
       },
       {
         "uniqueName": "Vaniglia",
         "type": "Original",
         "cupSize": "110 ml (Lungo), Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.821
+        "similarityScore": 0.8212
       },
       {
         "uniqueName": "Peppermint Pinwheel",
@@ -7050,7 +7050,7 @@
         "type": "Original",
         "cupSize": "110 ml (Lungo), Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7943
+        "similarityScore": 0.7945
       }
     ]
   },
@@ -7112,7 +7112,7 @@
         "type": "Original",
         "cupSize": "40 ml (Espresso) & 110 (Lungo)",
         "intensity": 4.0,
-        "similarityScore": 0.6498
+        "similarityScore": 0.6504
       },
       {
         "uniqueName": "Double Espresso Scuro",
@@ -7133,7 +7133,7 @@
         "type": "Vertuo",
         "cupSize": "535 ml (Carafe)",
         "intensity": "",
-        "similarityScore": 0.5812
+        "similarityScore": 0.5814
       }
     ]
   },
@@ -7195,7 +7195,7 @@
         "type": "Vertuo",
         "cupSize": "150 ml (Gran Lungo)",
         "intensity": 8.0,
-        "similarityScore": 0.603
+        "similarityScore": 0.6032
       },
       {
         "uniqueName": "Bianco Forte",
@@ -7216,7 +7216,7 @@
         "type": "Vertuo",
         "cupSize": "40 ml (Espresso)",
         "intensity": 11.0,
-        "similarityScore": 0.5559
+        "similarityScore": 0.5561
       }
     ]
   },
@@ -7354,7 +7354,7 @@
         "type": "Original",
         "cupSize": "Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7167
+        "similarityScore": 0.7174
       },
       {
         "uniqueName": "Ice Forte",
@@ -7368,14 +7368,14 @@
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso)",
         "intensity": "",
-        "similarityScore": 0.6334
+        "similarityScore": 0.6336
       },
       {
         "uniqueName": "Golden Caramel",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.6283
+        "similarityScore": 0.6284
       },
       {
         "uniqueName": "Vaniglia",
@@ -7437,35 +7437,35 @@
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso)",
         "intensity": "",
-        "similarityScore": 0.6334
+        "similarityScore": 0.6336
       },
       {
         "uniqueName": "Vaniglia",
         "type": "Original",
         "cupSize": "110 ml (Lungo), Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.5466
+        "similarityScore": 0.5468
       },
       {
         "uniqueName": "Caramello",
         "type": "Original",
         "cupSize": "110 ml (Lungo), Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.5429
+        "similarityScore": 0.5432
       },
       {
         "uniqueName": "Golden Caramel",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.5284
+        "similarityScore": 0.5282
       },
       {
         "uniqueName": "Corto",
         "type": "Original",
         "cupSize": "Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.5082
+        "similarityScore": 0.5084
       }
     ]
   },
@@ -7534,7 +7534,7 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.6505
+        "similarityScore": 0.6507
       },
       {
         "uniqueName": "Cape Town Lungo",
@@ -7548,7 +7548,7 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.6312
+        "similarityScore": 0.6319
       }
     ]
   },
@@ -7686,35 +7686,35 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.8238
+        "similarityScore": 0.8237
       },
       {
         "uniqueName": "Unforgettable Espresso",
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": "",
-        "similarityScore": 0.7911
+        "similarityScore": 0.791
       },
       {
         "uniqueName": "Peppermint Pinwheel",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.7777
+        "similarityScore": 0.7776
       },
       {
         "uniqueName": "Caramello",
         "type": "Original",
         "cupSize": "110 ml (Lungo), Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7384
+        "similarityScore": 0.7387
       },
       {
         "uniqueName": "Maple Pecan",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Iced Recipe, Milk Recipe",
         "intensity": "",
-        "similarityScore": 0.718
+        "similarityScore": 0.7178
       }
     ]
   },
@@ -7769,35 +7769,35 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7755
+        "similarityScore": 0.7754
       },
       {
         "uniqueName": "Tropical Coconut Flavour Over Ice",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Ice Recipe",
         "intensity": "",
-        "similarityScore": 0.7367
+        "similarityScore": 0.7365
       },
       {
         "uniqueName": "Peanut & Roasted Sesame Flavour",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": "",
-        "similarityScore": 0.7137
+        "similarityScore": 0.7135
       },
       {
         "uniqueName": "Nocciola",
         "type": "Original",
         "cupSize": "110 ml (Lungo), Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7074
+        "similarityScore": 0.7076
       },
       {
         "uniqueName": "Almond Croissant Flavour (Vertuo)",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.707
+        "similarityScore": 0.7069
       }
     ]
   },
@@ -7852,35 +7852,35 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Ice Recipe",
         "intensity": "",
-        "similarityScore": 0.7367
+        "similarityScore": 0.7365
       },
       {
         "uniqueName": "Almond Croissant Flavour (Vertuo)",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.7034
+        "similarityScore": 0.7032
       },
       {
         "uniqueName": "Intenso",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 9.0,
-        "similarityScore": 0.6874
+        "similarityScore": 0.6985
       },
       {
         "uniqueName": "Peanut & Roasted Sesame Flavour",
         "type": "Original",
         "cupSize": "110 ml (Lungo)",
         "intensity": "",
-        "similarityScore": 0.6838
+        "similarityScore": 0.6836
       },
       {
         "uniqueName": "Gingerbread",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.6749
+        "similarityScore": 0.6748
       }
     ]
   },
@@ -8025,7 +8025,7 @@
         "type": "Original",
         "cupSize": "40 ml (Espresso) & 110 (Lungo)",
         "intensity": 4.0,
-        "similarityScore": 0.6387
+        "similarityScore": 0.6392
       },
       {
         "uniqueName": "Peru Organic (Original)",
@@ -8101,35 +8101,35 @@
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": "",
-        "similarityScore": 0.9297
+        "similarityScore": 0.9296
       },
       {
         "uniqueName": "Sunny Almond Vanilla Over Ice",
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso), Iced Recipe",
         "intensity": "",
-        "similarityScore": 0.8238
+        "similarityScore": 0.8237
       },
       {
         "uniqueName": "Peppermint Pinwheel",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.7616
+        "similarityScore": 0.7615
       },
       {
         "uniqueName": "Almond Croissant Flavour (Vertuo)",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.7606
+        "similarityScore": 0.7604
       },
       {
         "uniqueName": "Golden Caramel",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7466
+        "similarityScore": 0.7465
       }
     ]
   },
@@ -8184,7 +8184,7 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.8668
+        "similarityScore": 0.8667
       },
       {
         "uniqueName": "Peppermint Pinwheel",
@@ -8198,21 +8198,21 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.8004
+        "similarityScore": 0.8003
       },
       {
         "uniqueName": "Bianco Piccolo",
         "type": "Vertuo",
         "cupSize": "40 ml (Espresso) & Milk Recipes",
         "intensity": "",
-        "similarityScore": 0.745
+        "similarityScore": 0.7449
       },
       {
         "uniqueName": "Maple Pecan",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Iced Recipe, Milk Recipe",
         "intensity": "",
-        "similarityScore": 0.7301
+        "similarityScore": 0.73
       }
     ]
   },
@@ -8274,7 +8274,7 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.8465
+        "similarityScore": 0.8464
       },
       {
         "uniqueName": "Golden Caramel",
@@ -8295,7 +8295,7 @@
         "type": "Vertuo",
         "cupSize": "80 ml (Double Espresso), Iced Recipe",
         "intensity": "",
-        "similarityScore": 0.7777
+        "similarityScore": 0.7776
       }
     ]
   },
@@ -8350,35 +8350,35 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.8668
+        "similarityScore": 0.8667
       },
       {
         "uniqueName": "Gingerbread",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.8465
+        "similarityScore": 0.8464
       },
       {
         "uniqueName": "Cadiz Espresso",
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": 8.0,
-        "similarityScore": 0.779
+        "similarityScore": 0.7789
       },
       {
         "uniqueName": "Golden Caramel",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7437
+        "similarityScore": 0.7436
       },
       {
         "uniqueName": "Vaniglia",
         "type": "Original",
         "cupSize": "110 ml (Lungo), Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.724
+        "similarityScore": 0.7242
       }
     ]
   },
@@ -8447,14 +8447,14 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.7369
+        "similarityScore": 0.7376
       },
       {
         "uniqueName": "Rio De Janeiro Espresso",
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": 9.0,
-        "similarityScore": 0.6877
+        "similarityScore": 0.6879
       },
       {
         "uniqueName": "Lisbon Bica",
@@ -8523,28 +8523,28 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.8089
+        "similarityScore": 0.8088
       },
       {
         "uniqueName": "Nocciola",
         "type": "Original",
         "cupSize": "110 ml (Lungo), Cappuccino & Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.8027
+        "similarityScore": 0.8029
       },
       {
         "uniqueName": "Maple Pecan",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Iced Recipe, Milk Recipe",
         "intensity": "",
-        "similarityScore": 0.7606
+        "similarityScore": 0.7604
       },
       {
         "uniqueName": "Peanut and Roasted Sesame Flavour (Vertuo)",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.744
+        "similarityScore": 0.7439
       }
     ]
   },
@@ -8599,35 +8599,35 @@
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": 9.0,
-        "similarityScore": 0.8461
+        "similarityScore": 0.8675
       },
       {
         "uniqueName": "Peanut and Roasted Sesame Flavour (Vertuo)",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee)",
         "intensity": "",
-        "similarityScore": 0.744
+        "similarityScore": 0.7439
       },
       {
         "uniqueName": "Maple Pecan",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Iced Recipe, Milk Recipe",
         "intensity": "",
-        "similarityScore": 0.712
+        "similarityScore": 0.7119
       },
       {
         "uniqueName": "Golden Caramel",
         "type": "Vertuo",
         "cupSize": "230 ml (Coffee), Cappucino and Latte Macchiato",
         "intensity": "",
-        "similarityScore": 0.6821
+        "similarityScore": 0.682
       },
       {
         "uniqueName": "Cadiz Espresso",
         "type": "Original",
         "cupSize": "40 ml (Espresso)",
         "intensity": 8.0,
-        "similarityScore": 0.6727
+        "similarityScore": 0.6726
       }
     ]
   }
