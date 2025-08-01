@@ -72,18 +72,23 @@ import time
 # print(df_raw.info());
 # df_raw.head()
 
-dataset_filename = "RawData_v2.xlsx";
+dataset_filename = "RawData_v3.xlsx";
 
 ice_coffee_list = ["Cold Brew Style Intense","Ice Forte","Ice Leggero","Sunny Almond Vanilla Over Ice","Tropical Coconut Flavour Over Ice","Freddo Intenso","Freddo Delicato","Coconut Flavour Over Ice"];
+
 milky_coffee_list = ["Corto","Scuro","Chiaro","Bianco Forte"];
 
-coffee_that_need_unique_name = ["Peru Organic","Ethiopia"];
+coffee_that_need_unique_name = ["Peru Organic","Ethiopia","No.20","Kahawa Ya Congo","Pumpkin Spice Cake","Almond Croissant Flavour","Peanut & Roasted Sesame Flavour"];
 
 coffee_estimated_intensity_eleven = ["Corto"];
-coffee_estimated_intensity_eight = ["Scuro"];
+
+coffee_estimated_intensity_eight = ["Scuro","Unforgettable Espresso"];
+
 coffee_estimated_intensity_seven = ["Carafe Pour-Over Style","Bianco Piccolo","Bianco Forte","Ice Forte","Filter Style Intense","Freddo Intenso"];
-coffee_estimated_intensity_six = ["Cioccolatino","Vaniglia","Nocciola","Caramello","Chiaro","Bianco Doppio","Vivida"];
-coffee_estimated_intensity_five =["Cold Brew Style Intense","Carafe Pour-Over Style Mild","Golden Caramel","Sweet Vanilla","Rich Chocolate","Roasted Hazelnut","Ice Leggero","Infinitely Gourmet","Sunny Almond Vanilla Over Ice","Tropical Coconut Flavour Over Ice","Filter Style Mild","Freddo Delicato","Coconut Flavour Over Ice"];
+
+coffee_estimated_intensity_six = ["Cioccolatino","Vaniglia","Nocciola","Caramello","Chiaro","Bianco Doppio","Vivida","No.20"];
+
+coffee_estimated_intensity_five =["Cold Brew Style Intense","Carafe Pour-Over Style Mild","Golden Caramel","Sweet Vanilla","Rich Chocolate","Roasted Hazelnut","Ice Leggero","Infinitely Gourmet","Sunny Almond Vanilla Over Ice","Tropical Coconut Flavour Over Ice","Filter Style Mild","Freddo Delicato","Coconut Flavour Over Ice","Pumpkin Spice Cake","Maple Pecan","Almond Croissant Flavour","Peanut & Roasted Sesame Flavour","Gingerbread","Peppermint Pinwheel"];
 
 df_original = pd.read_excel(dataset_filename, index_col=False, sheet_name="Original");
 df_vertuo = pd.read_excel(dataset_filename, index_col=False, sheet_name="Vertuo");
@@ -151,6 +156,8 @@ def convert_image(dataframe, index, input_folder, output_folder, imageType):
         dataframe.loc[index, f"{imageType} Image"] = convertedImage+".png";
 
     else:
+        # print(rawImage+".avif");
+        # print(exists(rawImage+".avif"));
 
         if(exists(rawImage+".webp") == True):
             
@@ -292,8 +299,8 @@ def dataAggregationNormalization(dataframe):
                 dff.loc[i, f"{col} Classification"] = "Medium";
             elif tasteProfileLevel >= 4:
                 dff.loc[i, f"{col} Classification"] = "High";
-            # else:
-            #     dff.loc[i, f"{col} Classification"] = "Medium";
+            else:
+                dff.loc[i, f"{col} Classification"] = "Medium";
     
     # Filter and show dataframe with newly created columns & values ----------
     col_list = [
@@ -376,6 +383,7 @@ def get_wordcloud(dataframe, coffee_select, image):
 # %%
 # This function takes the selected coffee and shuffles it to the top of a newly created duplicate dataframe
 def get_dataframeNLP(dataframe, coffee_select):
+    
     df_coffeeSelect = dataframe[dataframe["Unique Name"] == coffee_select];
 
     df_NLP = pd.concat([df_coffeeSelect, dataframe]);
@@ -736,16 +744,97 @@ def buildReport(dataframe, index, tables):
     my_doc.build(flowables);
 
 # %%
+df['Guides'] = '';
 for i in df.index:
     try:
         buildReport(df, i, recommendationTables);
         print(f"{df.loc[i, 'ID']}: {df.loc[i, 'Type']} {df.loc[i, 'Name']} - Report Generated Successfully");
+        df.loc[i, 'Guides'] = f"Guides/{df.loc[i, 'ID']}_{df.loc[i, 'Name']}_{df.loc[i, 'Status']}.pdf";
     except Exception as e:
         print(e);
         print(f"{df.loc[i, 'ID']}: {df.loc[i, 'Type']} {df.loc[i, 'Name']} - Error Generating Report");
 
 # %% [markdown]
 # # Export Final Dataset
+
+# %%
+import json
+df_rec = recommendationTables;
+
+jsonData = [];
+for record in df_rec:
+    for i in df.index:
+        if record['name'] == df.loc[i, 'Unique Name']:
+            
+            def safe_value(val, replace_val):
+                return val if not pd.isna(val) else replace_val;
+
+            entry = {};
+
+            entry['id'] = df.loc[i, 'ID'];
+            entry['name'] = df.loc[i, 'Name'];
+            entry['capsuleImage'] = df.loc[i, 'Capsule Image'];
+            entry['sleeveImage'] = df.loc[i, 'Sleeve Image'];
+            entry['type'] = df.loc[i, 'Type'];
+            entry['status'] = df.loc[i, 'Status'];
+            entry['category'] = df.loc[i, 'Category'];
+            entry['cupSize'] = safe_value(df.loc[i, 'Cup Size'], '');
+            entry['headline'] = df.loc[i, 'Headline'];
+            entry['intensity'] = safe_value(df.loc[i, 'Intensity'], '');
+            entry['price'] = df.loc[i, 'Price'];
+            entry['notes'] = df.loc[i, 'Notes'];
+            entry['taste'] = df.loc[i, 'Taste'];
+
+            entry['tasteProfile'] = {
+                'acidity':safe_value(df.loc[i, 'Acidity'], 0),
+                'bitterness': safe_value(df.loc[i, 'Bitterness'], 0),
+                'roastiness': safe_value(df.loc[i, 'Roastiness'], 0),
+                'body': safe_value(df.loc[i, 'Body'], 0),
+                'milkyTaste': safe_value(df.loc[i, 'Milky Taste'], 0),
+                'bitternessWithMilk': safe_value(df.loc[i, 'Bitterness with Milk'], 0),
+                'roastinessWithMilk': safe_value(df.loc[i, 'Roastiness with Milk'], 0),
+                'creamyTexture': safe_value(df.loc[i, 'Creamy Texture'], 0),
+            };
+
+            entry['description'] = safe_value(df.loc[i, 'Description'], '');
+            entry['origin'] = safe_value(df.loc[i, 'Origin'], '');
+            entry['roasting'] = safe_value(df.loc[i, 'Roasting'], '');
+            entry['contentsAllergens'] = df.loc[i, 'Contents & Allergens'];
+            entry['ingredients'] = df.loc[i, 'Ingredients'];
+            entry['netWeight'] = df.loc[i, 'Net Weight'];
+            entry['uniqueName'] = df.loc[i, 'Unique Name'];
+            entry['estimatedIntensity'] = df.loc[i, 'Estimated Intensity'];
+            entry['acidityClassification'] = df.loc[i, 'Acidity Classification'];
+            entry['bitternessClassification'] = df.loc[i, 'Bitterness Classification'];
+            entry['roastinessClassification'] = df.loc[i, 'Roastiness Classification'];
+            entry['bodyClassification'] = df.loc[i, 'Body Classification'];
+            entry['milkyTasteClassification'] = df.loc[i, 'Milky Taste Classification'];
+            entry['bitternessWithMilkClassification'] = df.loc[i, 'Bitterness with Milk Classification'];
+            entry['roastinessWithMilkClassification'] = df.loc[i, 'Roastiness with Milk Classification'];
+            entry['creamyTextureClassification'] = df.loc[i, 'Creamy Texture Classification'];
+            entry['tasteProfileChart'] = df.loc[i, 'Taste Profile Chart'];
+            entry['textualInfo'] = df.loc[i, 'Textual Info'];
+            entry['wordCloud'] = df.loc[i, 'Word Cloud'];
+            entry['featureResults'] = df.loc[i, 'Feature Results'];
+            entry['guides'] = df.loc[i, 'Guides'];
+
+            # entry['recommendations'] = record['recommendations'].to_dict(orient='records');
+            entry_rec = [];
+            for j in record['recommendations'].index:
+                rec = {};
+                rec['uniqueName'] = record['recommendations'].loc[j, 'Unique Name'];
+                rec['type'] = record['recommendations'].loc[j, 'Type'];
+                rec['cupSize'] = safe_value(record['recommendations'].loc[j, 'Cup Size'], '');
+                rec['intensity'] = safe_value(record['recommendations'].loc[j, 'Intensity'], '');
+                rec['similarityScore'] = record['recommendations'].loc[j, 'Similarity Score'];
+                entry_rec.append(rec);
+            entry['recommendations'] = entry_rec;
+
+            jsonData.append(entry);
+
+json_result = json.dumps(jsonData, indent=2);
+with open('output.json', 'w', encoding='utf-8') as f:
+    json.dump(jsonData, f, indent=2, ensure_ascii=False)
 
 # %%
 df.to_excel('Data.xlsx', index=False);
