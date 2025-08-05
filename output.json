@@ -43,7 +43,7 @@
     "textualInfo": "original current italian espressos ml ristretto ml espresso dark creamy 130 87 intense roasted velvety creamy cup extremely thick body pleasantly bitter cocoa notes 10 50 50 50 ispirazione napoli pays tribute short strong dark espressos southern italian coastal city velvety creamy cup extremely thick body kiss pleasant bitterness aftertaste intense blend created mostly using robustas uganda india combined arabicas intense coffee cocoa touch dark intense roast done carefully selected beans withstand process develop delicious bitter notes without completely burning away capsules roast ground coffee nespresso system roast ground coffee g 201 oz capsules ispirazione napoli 130 dark low high high high medium medium medium medium",
     "wordCloud": "Charts/OL1_Ispirazione Napoli_Original_Word Cloud.png",
     "featureResults": "Charts/OL1_Ispirazione Napoli_Original Feature Results.png",
-    "guides": "Guides/OL1_Ispirazione Napoli_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL1_Ispirazione%20Napoli_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Kazaar",
@@ -126,7 +126,7 @@
     "textualInfo": "original current italian espressos ml ristretto ml espresso exceptionally intense syrupy 120 87 woody spicy taste audacious bitterness peppery notes leaping thick syrupy body together arabica robusta balance espresso reflects palermo coastal lifestyle rich history sit back sun enjoy kazaar terrace everything food plate architecture surrounding whispering histories passed palermo 10 50 50 50 long dark roast inspired union sicilian coffee artistry african arabian heritage guaranteed spice things capsules roast ground coffee nespresso system roast ground coffee g 211 oz capsules kazaar 120 dark low high high high medium medium medium medium",
     "wordCloud": "Charts/OL2_Kazaar_Original_Word Cloud.png",
     "featureResults": "Charts/OL2_Kazaar_Original Feature Results.png",
-    "guides": "Guides/OL2_Kazaar_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL2_Kazaar_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Kazaar",
@@ -209,7 +209,7 @@
     "textualInfo": "original current italian espressos ml ristretto ml espresso powerful contrasting 100 87 dark roast hint fruity ristretto deliciously complex coffee displays roasty intense notes combination fruity notes hint acidity milk hide ristretto contrasted bouquet love rounds blend gives creamy texture 30 40 40 40 ca nt help fall ristretto canadian bestseller medium dark roast embodies italy iconic coffee culture short quick sip complex blend created using arabicas brazil colombia combination robustas sources including east africa robustas ristretto go long roast develop pleasantly bitter cocoa note arabicas go though quick roast keep bright acidity fruity notes alive capsules roast ground coffee nespresso system roast ground coffee g 201 oz capsules ristretto 100 dark medium high high high medium medium medium medium",
     "wordCloud": "Charts/OL3_Ristretto_Original_Word Cloud.png",
     "featureResults": "Charts/OL3_Ristretto_Original Feature Results.png",
-    "guides": "Guides/OL3_Ristretto_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL3_Ristretto_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Ristretto Decaffeinato",
@@ -292,7 +292,7 @@
     "textualInfo": "original current italian espressos ml ristretto ml espresso powerful contrasting 100 92 dark roast hint fruity boldly roasty balanced soft cocoa notes may catch subtle acidity fruity notes make nespresso decaf capsule mysteriously complex 30 40 40 40 profile worthy ambassador coffee explains italians passion coffee makes sense ingrained daily life extracted classic ml soon see right italians drop deliciousness shows less truly capsules roast ground coffee nespresso system decaffeinated roast ground coffee g 201 oz capsules ristretto decaffeinato 100 dark medium high high high medium medium medium medium",
     "wordCloud": "Charts/OL4_Ristretto Decaffeinato_Original_Word Cloud.png",
     "featureResults": "Charts/OL4_Ristretto Decaffeinato_Original Feature Results.png",
-    "guides": "Guides/OL4_Ristretto Decaffeinato_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL4_Ristretto%20Decaffeinato_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Ristretto Decaffeinato",
@@ -375,7 +375,7 @@
     "textualInfo": "original current italian espressos ml ristretto ml espresso intense creamy 90 87 intense dark roast cocoa arpeggio dense creamy combining bold roasty cocoa notes irresistible velvety texture arpeggio potent character push milk intense coffee sweet notes arabica mix well milk froth 20 40 40 40 nespresso classic arpeggio s coffees short dark roasted masterpiece come heart instance cultural artistic heart italy arabica blend created using beans brazil guatemala fine origins intense roast coffee beans develops distinct characteristics arpeggio coffees malty aroma turns cocoa notes give espresso gravitas capsules roast ground coffee nespresso system roast ground coffee g 186 oz capsules arpeggio 90 dark low high high high medium medium medium medium",
     "wordCloud": "Charts/OL5_Arpeggio_Original_Word Cloud.png",
     "featureResults": "Charts/OL5_Arpeggio_Original Feature Results.png",
-    "guides": "Guides/OL5_Arpeggio_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL5_Arpeggio_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Arpeggio Decaffeinato",
@@ -458,7 +458,7 @@
     "textualInfo": "original current italian espressos ml ristretto ml espresso intense creamy 90 92 dark roast cocoa arpeggio decaffeinato dense creamy decaffeinated version decaffeination diminish bold roasty cocoa notes crema gives creamy velvety texture irresistible perfectly pairs milk 20 40 40 40 exquisite blend true reflection florence cultural significance intellectual hub heart italy drawing influences across country s roasting style brings influences together combining fruity notes north italy cocoa notes south culminating velvety dense creamy cup arabica blend created using beans brazil guatemala fine origins intense roast coffee beans develops distinct characteristics arpeggio coffees malty aroma turns cocoa notes give espresso gravitas capsules roast ground coffee nespresso system decaffeinated roast ground coffee g 194 oz capsules arpeggio decaffeinato 90 dark low high high high medium medium medium medium",
     "wordCloud": "Charts/OL6_Arpeggio Decaffeinato_Original_Word Cloud.png",
     "featureResults": "Charts/OL6_Arpeggio Decaffeinato_Original Feature Results.png",
-    "guides": "Guides/OL6_Arpeggio Decaffeinato_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL6_Arpeggio%20Decaffeinato_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Arpeggio Decaffeinato",
@@ -541,7 +541,7 @@
     "textualInfo": "original current italian espressos ml ristretto ml espresso balanced thick body 80 87 unknown venezia mellow rounded delicately aromatic coffee remind coffee beans fresh roaster 10 30 40 40 venezia celebrates long local coffee tradition italy roast combines intense notes ottoman influence highly aromatic european coffee profiles influences arrived venetian traders led way importing coffee italy majority arabica blend coffee coming colombia brazil fairly dark roast gives venezia rounded mouthfeel mellowed acidity hint bitterness capsules roast ground coffee nespresso system roast ground coffee g 197 oz capsules inspirazione venezia 80 dark low medium high high medium medium medium medium",
     "wordCloud": "Charts/OL7_Inspirazione Venezia_Original_Word Cloud.png",
     "featureResults": "Charts/OL7_Inspirazione Venezia_Original Feature Results.png",
-    "guides": "Guides/OL7_Inspirazione Venezia_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL7_Inspirazione%20Venezia_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Arpeggio",
@@ -624,7 +624,7 @@
     "textualInfo": "original current italian espressos ml ristretto ml espresso full balanced 80 87 woody cereal days ancient rome great many cultures passed metropolis different layers civilization towering present day modern rome adds layer elegance rich history city ispirazione roma beautifully complex subtle balance strength roastiness depth woodsy cereal notes finesse acidity elegant aromatics 40 40 30 30 combining ancient character rome twist modernity short roast balances intensity elegant aromatics reflecting complexity great city thankfully making one less complex capsules roast ground coffee nespresso system roast ground coffee g 176 oz capsules inspirazione roma 80 dark high high medium medium medium medium medium medium",
     "wordCloud": "Charts/OL8_Inspirazione Roma_Original_Word Cloud.png",
     "featureResults": "Charts/OL8_Inspirazione Roma_Original Feature Results.png",
-    "guides": "Guides/OL8_Inspirazione Roma_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL8_Inspirazione%20Roma_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Arpeggio",
@@ -707,7 +707,7 @@
     "textualInfo": "original current italian espressos ml espresso round balanced 60 87 caramel balanced smooth rounded delicately aromatic coffee light roast develops smooth full body keeps fine aromas present toasted cereal fragrance sweet caramel notes pairs perfectly milk 30 30 30 30 honour genoa gateway world used fine latin american arabicas create sweet medium roast livanto arabica blend beans coming brazil guatemala colombia gave coffees livanto medium roast still dark enough develop caramel toasted cereal notes rounded mouthfeel preserving delicate acidity capsules roast ground coffee nespresso system roast ground coffee g 186 oz capsules livanto 60 medium medium medium medium medium medium medium medium medium",
     "wordCloud": "Charts/OL9_Livanto_Original_Word Cloud.png",
     "featureResults": "Charts/OL9_Livanto_Original Feature Results.png",
-    "guides": "Guides/OL9_Livanto_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL9_Livanto_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Vivida",
@@ -790,7 +790,7 @@
     "textualInfo": "original current world explorations ml lungo potent roasted 100 92 roasted woody blend brings cape town taste coffee south africa stopping point old trade routes asian coffees shaped local taste time world explorations cape town lungo reflects preference blend indian arabica robusta results intense lungo fullbodied punchy bitter note woodsy aroma enjoy like local add splash milk long cup experience silky texture 10 40 50 40 deeproasted intense fullbodied cup woodsy aroma punchy bitterness reminiscent robusta cargo shaped cape town taste coffee capsules roast ground coffee nespresso system roast ground coffee g 194 oz capsules cape town lungo 100 dark low high high high medium medium medium medium",
     "wordCloud": "Charts/OL10_Cape Town Lungo_Original_Word Cloud.png",
     "featureResults": "Charts/OL10_Cape Town Lungo_Original Feature Results.png",
-    "guides": "Guides/OL10_Cape Town Lungo_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL10_Cape%20Town%20Lungo_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "India",
@@ -873,7 +873,7 @@
     "textualInfo": "original current world explorations ml ristretto ml espresso roasted peppery note 90 87 roasted peppery note short dark split roasting fine grind help evoke every ventanita cuban cafecito always sweetened sprinkle brown sugar coffee vibrant context enjoyed americans grab tall coffees togo miami reflects strong hispanic influence coffee short shared intense thick crema strong roasted character begs brown sugar soften bitter notes enjoy cafecito brown sugar people miami coffee way together 10 40 50 40 walk streets miami pass dozens ventanitas little windows portholes cuba miniature coffee shops dishing small bites coffeethe short cafecito large colado share city melting pot traditions world explorations miami espresso bold blend arabica robusta coffees echoes caribbean arabica joins latin american coffees sealing authenticity archetypal cubanstyle cup americans grab tall coffees togo miami reflects strong hispanic influence coffee short shared capsules roast ground coffee nespresso system roast ground coffee unknown miami espresso 90 dark low high high high medium medium medium medium",
     "wordCloud": "Charts/OL11_Miami Espresso_Original_Word Cloud.png",
     "featureResults": "Charts/OL11_Miami Espresso_Original Feature Results.png",
-    "guides": "Guides/OL11_Miami Espresso_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL11_Miami%20Espresso_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Diavolitto",
@@ -956,7 +956,7 @@
     "textualInfo": "original current world explorations ml espresso cereal spicy 90 87 spicy pleasantly bitter velvetytextured cup unexpected walnut sandalwood herbal notes reminiscent thyme rosemary 10 40 40 40 embodying spirit lively colourful city espresso reflects country deeply rooted heritage growing drinking coffee rio de janeiro s unique touch sandalwood herbal notes give glimpse brazilian way life drink like local double espresso hot water arabica created using beans two distinct brazilian regions cerrado wellknown quality espirito santo brings herbal notes define coffee espirito santo beans roasted separately preserve herbal notes beans roasted together dark roasting mode enhance body intensity bitter notes capsules roast ground coffee nespresso system roast ground coffee g 194 oz capsules rio de janeiro espresso 90 dark low high high high medium medium medium medium",
     "wordCloud": "Charts/OL12_Rio De Janeiro Espresso_Original_Word Cloud.png",
     "featureResults": "Charts/OL12_Rio De Janeiro Espresso_Original Feature Results.png",
-    "guides": "Guides/OL12_Rio De Janeiro Espresso_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL12_Rio%20De%20Janeiro%20Espresso_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Inspirazione Venezia",
@@ -1039,7 +1039,7 @@
     "textualInfo": "original current world explorations ml ristretto ml espresso roasted fruity note hint almond 80 87 fruity roasted thick velvety blend displays wild spicy fruity notes hint almond pleasant roasty aftertaste 40 30 30 30 istanbul espresso takes back time original coffeehouses intense ambrosial brew bursts boldness wild ripe fruits delicate almond touch thick velvety homage turkish coffee ethiopian arabica indian robusta remind us city crossroads ancient coffee trade routes blend composed mostly ethiopian arabica beans indian robustas coffees come together bring complex profile bitterness acidity wild fruitiness roasted notes classic splitroast high intensity average roasting time batches separated arabicas robustas precise roast capsules roast ground coffee nespresso system roast ground coffee g 197 oz capsules istanbul espresso 80 dark high medium medium medium medium medium medium medium",
     "wordCloud": "Charts/OL13_Istanbul Espresso_Original_Word Cloud.png",
     "featureResults": "Charts/OL13_Istanbul Espresso_Original Feature Results.png",
-    "guides": "Guides/OL13_Istanbul Espresso_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL13_Istanbul%20Espresso_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Ristretto Classico",
@@ -1122,7 +1122,7 @@
     "textualInfo": "original current world explorations ml lungo rich fullbodied 80 92 roasted stockholm lungo coffee sweet cereal malty toasted notes lies beneath veil acidity lively bittereness paired milk coffee reveals additional sweet biscuit toffee notes 20 30 40 30 swedes among world big coffee consumers wander around stockholm often find intense black coffees malty savoury note coming distinctive monsoon arabica stockholm lungo recreates aromatic profile swedish coffee coupling monsooned malabar colombian arabica rich combination beans coming colombia costa rica india late undergoing particular monsooning process defines coffee sensorial profile monsooned arabica gets dark roast enhance body cereal notes light roast washed colombian coffee means classic fine aromatics stay balance capsules roast ground coffee nespresso system roast ground coffee g 211 oz capsules stockholm lungo 80 dark low medium high medium medium medium medium medium",
     "wordCloud": "Charts/OL14_Stockholm Lungo_Original_Word Cloud.png",
     "featureResults": "Charts/OL14_Stockholm Lungo_Original Feature Results.png",
-    "guides": "Guides/OL14_Stockholm Lungo_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL14_Stockholm%20Lungo_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Inizio",
@@ -1205,7 +1205,7 @@
     "textualInfo": "original current world explorations ml espresso cereal biscuity hint citrus 60 87 citrus biscuity citrus paris espresso balanced coffee light bitterness cereal biscuity notes pleasant acidity hint citrus paired milk coffee reveals caramelic biscuity note bitter almond touch 20 30 30 30 live authentic parisian café experience people enjoy philosophizing coffee world explorations paris espresso transports terraces balanced blend arabicas emboldened vietnamese robusta delicately bitter cup cereal citrus notes blend arabicas brazil colombia combined touch topgrade robusta beans vietnam adds pleasant bitter note coffee classic split roast average roasting intensity time arabicas robustas separated batches robusta part lightly roasted allow delicate arabica notes stand capsules roast ground coffee nespresso system roast ground coffee g 176 oz capsules paris espresso 60 medium low medium medium medium medium medium medium medium",
     "wordCloud": "Charts/OL15_Paris Espresso_Original_Word Cloud.png",
     "featureResults": "Charts/OL15_Paris Espresso_Original Feature Results.png",
-    "guides": "Guides/OL15_Paris Espresso_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL15_Paris%20Espresso_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Orafio",
@@ -1288,7 +1288,7 @@
     "textualInfo": "original current world explorations ml lungo round smooth 60 92 vienna coffeehouse tradition shaped coffee culture vibrant city known many recipes smoothness coffee world explorations vienna lungo recreates balanced pleasant viennese taste pairing sweet brazilian colombian arabicas lightly roasted experts enhance malty aromatic notes cup enjoy like local top lungo hot water 150ml cup pair slice cake 10 20 30 20 coffeehouse home coffee gathering balanced blend smooth silky south american arabicas pairs perfectly viennoiserie capsules roast ground coffee nespresso system roast ground coffee g 194 oz capsules vienna lungo 60 medium low low medium low medium medium medium medium",
     "wordCloud": "Charts/OL16_Vienna Lungo_Original_Word Cloud.png",
     "featureResults": "Charts/OL16_Vienna Lungo_Original Feature Results.png",
-    "guides": "Guides/OL16_Vienna Lungo_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL16_Vienna%20Lungo_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Melozio",
@@ -1371,7 +1371,7 @@
     "textualInfo": "original current world explorations ml lungo floral complex 60 92 roasted tokyo lungo combines delicate flowery notes refined toasted cereal notes hint fruit 10 20 30 30 known tea japanese also real affinity coffee striving sophistication natural sweetness love rich coffee balance elegant aromas tokyo lungo captures essence preferences refined ethiopian mexican arabicas floral notes delicate acidity coming lightly roasted ethiopian arabica contrast beautifully rich flavours mexican washed arabica ethiopian beans go fast roast preserves acidity flowery notes mexican beans roasted long develop intensity capsules roast ground coffee nespresso system roast ground coffee g 204 oz capsules tokyo lungo 60 medium low low medium medium medium medium medium medium",
     "wordCloud": "Charts/OL17_Tokyo Lungo_Original_Word Cloud.png",
     "featureResults": "Charts/OL17_Tokyo Lungo_Original Feature Results.png",
-    "guides": "Guides/OL17_Tokyo Lungo_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL17_Tokyo%20Lungo_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Paris Espresso",
@@ -1454,7 +1454,7 @@
     "textualInfo": "original current world explorations ml lungo fruity fine acidity 50 92 berry world explorations shanghai lungo insight emerging asian coffee culture crafted kenyan chinese indonesian arabicas distinctive lightroast blend please palate berry notes fine acidity enjoy like local lengthen long cup coffee splash cream take onthego 20 10 20 20 venice long history importing world coffees expertly roasting diverse coffees harmony expertise inspired beautifully balanced roast ispirazione venezia worthy noble dessert classic caramel cereal notes coffee marry elegantly decadent ingredients rich tiramisu capsules roast ground coffee nespresso system roast ground coffee g 197 oz capsules shanghai lungo 50 medium low low low low medium medium medium medium",
     "wordCloud": "Charts/OL18_Shanghai Lungo_Original_Word Cloud.png",
     "featureResults": "Charts/OL18_Shanghai Lungo_Original Feature Results.png",
-    "guides": "Guides/OL18_Shanghai Lungo_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL18_Shanghai%20Lungo_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Filter Style Mild",
@@ -1537,7 +1537,7 @@
     "textualInfo": "original current world explorations ml lungo sweet cereal 40 92 cereal caramel world explorations buenos aires lungo blends gently roasted colombian arabica ugandan robusta deliver distinct cereal sweet popcorn notes tribute city love smooth long cups drink like local add generous drop milk sugar lungo extra treat 20 10 10 30 destination true foodies buenos aires highlight argentina vibrant food scene sweetness prevails coffee exception love sweet milky capsules roast ground coffee nespresso system roast ground coffee g 197 oz capsules buenos aires lungo 40 blonde low low low medium medium medium medium medium",
     "wordCloud": "Charts/OL19_Buenos Aires Lungo_Original_Word Cloud.png",
     "featureResults": "Charts/OL19_Buenos Aires Lungo_Original Feature Results.png",
-    "guides": "Guides/OL19_Buenos Aires Lungo_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL19_Buenos%20Aires%20Lungo_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Ethiopia (Vertuo)",
@@ -1620,7 +1620,7 @@
     "textualInfo": "original current master origins ml espresso lungo unknown 110 97 intense spicy monsooned coffee unique india southwest coast offering powerful cup distinct intense woody spicy notes come mostly robusta part blend perfectly pairs milk 10 40 40 30 india distinctive robusta monsooning process exposes coffee beans monsoonal ocean winds causing swell dry transform flavour local craftsmen spend months attending drying coffee beans develop renowned spicy flavor syrupy body taste indian coffee blend arabica robusta blend exclusively created beans india split roast blend medium slightly short roast separating arabicas robustas keep distinct characteristics alive capsules roast ground coffee nespresso system roast ground coffee g 194 oz capsules india 110 dark low high high medium medium medium medium medium",
     "wordCloud": "Charts/OL20_India_Original_Word Cloud.png",
     "featureResults": "Charts/OL20_India_Original Feature Results.png",
-    "guides": "Guides/OL20_India_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL20_India_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Miami Espresso",
@@ -1703,7 +1703,7 @@
     "textualInfo": "original current master origins ml espresso lungo wet hulled arabica 80 97 intense rich cereal woody master origins indonesia thick velvety body cured tobacco notes hint tropical woody aromastry master origins indonesia wethulled arabica dash milk nutty woody roasted notes emerge intense master origins coffee milk 20 30 40 30 sumatran farmers wethull coffee humid climate remove parchment coffee soft moist exposed beans dry fast method unique produces classic indonesian taste velvety thick wildly aromatic notes cured tobacco coffee exclusively created fairtrade beans indonesia split roast single origin coffee medium slightly short average roast split roasting sumatra coffee brings great aromatic complexity cup capsules roast ground coffee nespresso system roast ground coffee g 197 oz capsules indonesia fairtrade 80 dark low medium high medium medium medium medium medium",
     "wordCloud": "Charts/OL21_Indonesia - Fairtrade_Original_Word Cloud.png",
     "featureResults": "Charts/OL21_Indonesia - Fairtrade_Original Feature Results.png",
-    "guides": "Guides/OL21_Indonesia - Fairtrade_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL21_Indonesia%20-%20Fairtrade_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Indonesia - Fairtrade",
@@ -1786,7 +1786,7 @@
     "textualInfo": "original current master origins ml espresso lungo late harvest arabica 60 97 winey master origins colombia smooth fruity coffee bright acidity winey red fruit notes blackcurrant cranberry paired milk coffee reveals additional sweet biscuit notes 40 30 30 20 master origins colombia late harvest uses highgrown washed processed colombian arabica taste lively acidity burst winey red fruit aromas comes coffee farmers dared wait long harvesting crop made late harvest arabica harvesting technique leaves cherry plant slightly long amplify acidity winey notes average short roast medium temperatures keeps deep delicate aromatics master origins colombia balance capsules roast ground coffee nespresso system roast ground coffee g 201 oz capsules colombia 60 medium high medium medium low medium medium medium medium",
     "wordCloud": "Charts/OL22_Colombia_Original_Word Cloud.png",
     "featureResults": "Charts/OL22_Colombia_Original Feature Results.png",
-    "guides": "Guides/OL22_Colombia_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL22_Colombia_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Ethiopia (Original)",
@@ -1869,7 +1869,7 @@
     "textualInfo": "original current master origins ml espresso lungo high andes 60 97 fruity elegant organic arabica crafted remote smallholder farmers peru remote andes mountains graced smooth toasted cereal fruit notes going great lengths source fine organic peruvian coffee natural take care roasting coffee peru organic single origin coffee roasted two parts bring nuanced complexity final cup two splits lightly roasted highlight bright smooth character blend revealing exotic fruity notes 40 30 30 30 traveled across remote peruvian regions search fine organic arabica beans high meters tucked slopes andes found blessed meticulous care smallholder farmers peru organic elegant fruity coffee accented smooth toasted cereal note capsules roast ground coffee nespresso system roast ground coffee g 204 oz capsules peru organic original 60 medium high medium medium medium medium medium medium medium",
     "wordCloud": "Charts/OL23_Peru Organic_Original_Word Cloud.png",
     "featureResults": "Charts/OL23_Peru Organic_Original Feature Results.png",
-    "guides": "Guides/OL23_Peru Organic_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL23_Peru%20Organic_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Peru Organic (Vertuo)",
@@ -1952,7 +1952,7 @@
     "textualInfo": "original current master origins ml espresso lungo blackhoney processed arabica 50 97 sweet blackhoney processed arabica master origins nicaragua nectarous coffee satiny smooth texture warming sweet cereal notes distinct sweetness comes rare blackhoney process like milk froth master origins nicaragua blackhoney processed arabica makes rich latte macchiato coffee milk balanced nutty roasted notes surface 20 20 20 10 black honey processing easy road nectarous coffee farmers dare rare process calls meticulous monitoring master origins nicaragua blackhoney processed arabica contains coffee gives nicaraguan arabica smooth honeyed texture sweet cereal notes arabica singleorigin nicaraguan coffee contains blackhoney processed beans give smooth texture sweet cereal notes capsules roast ground coffee nespresso system roast ground coffee g 176 oz capsules nicaragua 50 medium low low low low medium medium medium medium",
     "wordCloud": "Charts/OL24_Nicaragua_Original_Word Cloud.png",
     "featureResults": "Charts/OL24_Nicaragua_Original Feature Results.png",
-    "guides": "Guides/OL24_Nicaragua_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL24_Nicaragua_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Bianco Piccolo",
@@ -2035,7 +2035,7 @@
     "textualInfo": "original current master origins ml espresso lungo ethiopia dry processed arabica 40 97 fruity orange blossom aroma rich fruit jam notes come sundried coffee master origins ethiopia dry processed arabica continually handturning coffee cherry ensure even drying calls great care ethiopian farmers used method long anyone else like milk coffee try master origins ethiopia dry processed arabica milk froth make cappuccino find delicate floral notes still smoothly dancing cup coffee milk 40 20 20 10 ethiopian arabica fine decadently aromatic capsules roast ground coffee nespresso system roast ground coffee g 197 oz capsules ethiopia original 40 blonde high low low low medium medium medium medium",
     "wordCloud": "Charts/OL25_Ethiopia_Original_Word Cloud.png",
     "featureResults": "Charts/OL25_Ethiopia_Original Feature Results.png",
-    "guides": "Guides/OL25_Ethiopia_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL25_Ethiopia_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Colombia",
@@ -2118,7 +2118,7 @@
     "textualInfo": "original current barista creations ml lungo cappuccino latte macchiato chocolate flavoured 97 chocolate flavoured biscuity flavoured blend delights elegant dark chocolate flavour complemented notes biscuit cereal 30 20 20 20 made name changes barista creations flavoured range original good reflect various changes made recipe flavouring extracts recommended cup size barista creations flavoured cioccolato brings together exquisite flavour dark chocolate signature taste roasted coffee smooth latin american arabica blend meets timeless rich chocolate flavour deep layers flavour emerge ready create coffee moment keep coming back decadence make cappuccinoan elegant nutty note unfolds finishing touch chocolate flavour capsules roast ground coffee nespresso system roast ground coffee natural flavour g 176 oz capsules cioccolatino 60 medium medium low low low medium medium medium medium",
     "wordCloud": "Charts/OL26_Cioccolatino_Original_Word Cloud.png",
     "featureResults": "Charts/OL26_Cioccolatino_Original Feature Results.png",
-    "guides": "Guides/OL26_Cioccolatino_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL26_Cioccolatino_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Nocciola",
@@ -2201,7 +2201,7 @@
     "textualInfo": "original current barista creations ml lungo cappuccino latte macchiato vanilla flavoured 97 flavoured vanilla flavoured blend delights classic vanilla flavour combined sweet biscuit cereal notes 30 20 20 20 made name changes barista creations flavoured range original good reflect various changes made recipe flavouring extracts recommended cup size craft barista creations flavoured vaniglia brought custardy vanilla flavour smooth base blend arabica beans brazil colombia combination brazilian bourbon variety sweetness lively character washed colombian coffee perfect landing complex warming nature beloved vanilla flavour coffee blend mellow malted cereal notes bring rounded silky taste elegantly complements classic vanilla try cappuccino may remind favourite vanilla cake capsules roast ground coffee nespresso system roast ground coffee natural flavour g 176 oz capsules vaniglia 60 medium medium low low low medium medium medium medium",
     "wordCloud": "Charts/OL27_Vaniglia_Original_Word Cloud.png",
     "featureResults": "Charts/OL27_Vaniglia_Original Feature Results.png",
-    "guides": "Guides/OL27_Vaniglia_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL27_Vaniglia_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Sweet Vanilla",
@@ -2284,7 +2284,7 @@
     "textualInfo": "original current barista creations ml lungo cappuccino latte macchiato hazelnut flavoured 97 flavoured biscuity hazelnut flavoured blend delights classic hazelnut flavour complemented notes praline biscuit cereals 30 20 20 20 made name changes barista creations flavoured range original good reflect various changes made recipe flavouring extracts recommended cup size nothing beats classic barista creations flavoured nocciola delivers rich roasted hazelnut flavour cascades smooth latin american arabica blend coffee malted cereal character comes caramelized nutty noteyour cue slow savour coffee moment stretch momentmake cappuccino milky delight hazelnut flavour taking delicious praline character linger capsules roast ground coffee nespresso system artificially flavoured hazelnut roast ground coffee unknown nocciola 60 medium medium low low low medium medium medium medium",
     "wordCloud": "Charts/OL28_Nocciola_Original_Word Cloud.png",
     "featureResults": "Charts/OL28_Nocciola_Original Feature Results.png",
-    "guides": "Guides/OL28_Nocciola_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL28_Nocciola_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Vaniglia",
@@ -2367,7 +2367,7 @@
     "textualInfo": "original current barista creations ml lungo cappuccino latte macchiato caramel flavoured 97 flavoured caramel flavoured blend delights classic caramel flavour combined sweet biscuit nutty notes 30 20 20 20 made name changes barista creations flavoured range original good reflect various changes made recipe flavouring extracts recommended cup sizewhen nutty sweetness classically decadent caramel flavour meets base blend south american arabicas barista creations flavoured caramello irresistible invitation treat caramel creamy nuttiness way rounding coffee delicious biscuit note effortlessly complementing smooth taste light roasting brazilian colombian beans ensures texture tastes aromas coffee right carrying unmistakable caramel flavour make cappuccino momentmilk brings caramel biscuit notes capsules artificially flavoured caramel roast ground coffee nespresso system roast ground coffee artificial flavour g 176 oz capsules caramello 60 medium medium low low low medium medium medium medium",
     "wordCloud": "Charts/OL29_Caramello_Original_Word Cloud.png",
     "featureResults": "Charts/OL29_Caramello_Original Feature Results.png",
-    "guides": "Guides/OL29_Caramello_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL29_Caramello_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Golden Caramel",
@@ -2450,7 +2450,7 @@
     "textualInfo": "original current barista creations cappuccino latte macchiato spicy slightly smoked 97 intense barista creations corto took inspiration dark roasts thick textures created expert baristas spain easily recognizable raw strength intense roasty character corto punch milk rich aftertaste elegant bitterness thick textured body dash hot milk milk froth crowning cup experience corto traditional cortado recipe way 10 50 50 10 inspired dark roasted tastes thick textures created expert baristas spain selected blend african arabicas robusta roasted long dark create powerful fullbodied taste becomes smooth creamy splash milk capsules roast ground coffee nespresso system natural flavouring roast ground coffee g 204 oz capsules corto 110 dark medium medium medium medium low high high low",
     "wordCloud": "Charts/OL30_Corto_Original_Word Cloud.png",
     "featureResults": "Charts/OL30_Corto_Original Feature Results.png",
-    "guides": "Guides/OL30_Corto_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL30_Corto_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Ice Forte",
@@ -2533,7 +2533,7 @@
     "textualInfo": "original current barista creations cappuccino latte macchiato balanced biscuit notes 97 roasted balanced intense coffee remains beautifully balance milk roasty enough push milk delicate sweetness tempers intensity make compelling cappuccino 30 30 20 30 taking inspiration melbourne baristas masters robust perfectly balanced tastes orchestrated ideal marriage using meticulous combination topgrade colombian ethiopian arabicas scuro contrasting roasting profile part coffee getting long dark roast part roasted much fast light capsules roast ground coffee nespresso system roast ground coffee g 176 oz capsules scuro 80 dark medium medium medium medium medium medium low medium",
     "wordCloud": "Charts/OL31_Scuro_Original_Word Cloud.png",
     "featureResults": "Charts/OL31_Scuro_Original Feature Results.png",
-    "guides": "Guides/OL31_Scuro_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL31_Scuro_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Bianco Forte",
@@ -2616,7 +2616,7 @@
     "textualInfo": "original current barista creations cappuccino latte macchiato notes caramel sweet biscuits 97 balanced sweet biscuity barista creations chiaro hardly hint roastiness almost bitterness acidity perceive creamy caramel sweet biscuit notes add milk baristas brooklyn inspired us way light roast values natural sweetness coffee lends decadent smoothness cup add milk 50 10 10 40 inspired baristas brooklyn value natural sweetness coffee apply light roast protect capsules roast ground coffee nespresso system roast ground coffee g 168 oz capsules chiaro 60 medium medium medium medium medium high low low high",
     "wordCloud": "Charts/OL32_Chiaro_Original_Word Cloud.png",
     "featureResults": "Charts/OL32_Chiaro_Original Feature Results.png",
-    "guides": "Guides/OL32_Chiaro_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL32_Chiaro_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Golden Caramel",
@@ -2699,7 +2699,7 @@
     "textualInfo": "original current original collection ml espresso rich distinctive 50 87 balanced cereal capriccio rich profile combines fine acidity delicious toasted cereal notes touch bitterness enjoyed cappuccino latte macchiato pure moment indulgence 30 30 20 20 capriccio rich unique espresso ready astonish complex balanced bouquet distinct cereal notes characteristic brazilian arabica touch robusta use capriccio surprises fine acidity gleams coming highgrown south american arabicas light roast one first four coffees launched capriccio carefully created combining fine lightroasted arabicas brazil colombia touch topquality robusta capriccio gets light roast preserve fine acidity shimmers rich cereal notes light roasting also develops rich profile unique capriccio capsules roast ground coffee nespresso system roast ground coffee g 176 oz capsules capriccio 50 medium medium medium low low medium medium medium medium",
     "wordCloud": "Charts/OL33_Capriccio_Original_Word Cloud.png",
     "featureResults": "Charts/OL33_Capriccio_Original Feature Results.png",
-    "guides": "Guides/OL33_Capriccio_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL33_Capriccio_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Double Espresso Dolce",
@@ -2782,7 +2782,7 @@
     "textualInfo": "original current original collection ml espresso mild delicately roasted 40 87 fruity cereal delicate pairing fruity flavors toasted cereal notes cosi low bitterness roastiness body classic aromatics harmonious balance cosi milk takes indulgent silky texture sweet biscuit notes 30 20 20 20 one nespresso s og cosi s light roasted classic coffees keeps distinguished aromatics alive meets palate smile rich combination arabicas costa rica kenya south american countries kenyan arabicas provide zesty acidity present cosi coffee roasters give light roast latin american east african coffees ensuring heart soul shines cup capsules roast ground coffee nespresso system roast ground coffee g 176 oz capsules cosi 40 blonde medium low low low medium medium medium medium",
     "wordCloud": "Charts/OL34_Cosi_Original_Word Cloud.png",
     "featureResults": "Charts/OL34_Cosi_Original Feature Results.png",
-    "guides": "Guides/OL34_Cosi_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL34_Cosi_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Volluto",
@@ -2865,7 +2865,7 @@
     "textualInfo": "original current original collection ml espresso sweet light 40 87 balanced fruity cereal like fresh ovenbaked brioche volluto irresistible perfume comforting sweet biscuit notes touch winey fruitiness enlivens blend pairs perfectly milk 30 20 20 30 volluto sunny living natural brazilian arabica mellows preshipment resting time medium roast softens brazil cereal notes turns sweet biscuit washed arabica colombia brings delightful fresh red fruit notes blend volluto delicious profile created combining sweet mellowness brazilian arabicas winey fruitiness colombian arabicas lightly roasted given medium grind keep harmony roast turns brazil cereal notes sweet biscuit keeps fruity notes colombian beans alive capsules roast ground coffee nespresso system roast ground coffee g 176 oz capsules volluto 40 blonde medium low low medium medium medium medium medium",
     "wordCloud": "Charts/OL35_Volluto_Original_Word Cloud.png",
     "featureResults": "Charts/OL35_Volluto_Original Feature Results.png",
-    "guides": "Guides/OL35_Volluto_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL35_Volluto_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Volluto Decaffeinato",
@@ -2948,7 +2948,7 @@
     "textualInfo": "original current original collection sweet light 40 87 balanced fruity cereal volluto decaffeinato faithful form brazilian colombian coffees carefully composed gently decaffeinated sunny living decaffeinate naturally make sure coffee beans quality taste protected much possible volluto volluto decaffeinato milk taste irresistible charm easy sweet biscuit caramel notes splash lively fruit aromas 30 20 20 20 sweet light delightfully balanced cereal fruity notes volluto easy way capsules roast ground coffee nespresso system decaffeinated roast ground coffee g 176 oz capsules volluto decaffeinato 40 blonde medium low low low medium medium medium medium",
     "wordCloud": "Charts/OL36_Volluto Decaffeinato_Original_Word Cloud.png",
     "featureResults": "Charts/OL36_Volluto Decaffeinato_Original Feature Results.png",
-    "guides": "Guides/OL36_Volluto Decaffeinato_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL36_Volluto%20Decaffeinato_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Volluto Decaffeinato",
@@ -3031,7 +3031,7 @@
     "textualInfo": "original current online exclusive filter style coffees ml lungo floral malted cereal 105 roasted floral catch filter style mild heady florals revised capsule design unlocks complex long cup peach acidity alluring malted caramel sweetness 10 10 30 10 revised capsule design unlocks aromatic filter style brew lightbodied delicate veil crema filter style mild easytodrink morning cup characterized heady aroma jasmine orange blossoms juicy peach acidity subtle malty cereal note ribbon liquorice caramel sweetness complex alluring coffee membrane capsules fully recyclable smelling aromas fresh arabica coffee ground peeling capsule membrane rediscover delicate taste traditional filter coffee nespresso coffee machine prepare peel membrane extract long 150ml first lungo espresso buttons dash milk coffee gains body sweetness coffeeness remains strong retaining smoky character recommend filterstyle mild black coffee capsules roast ground coffee roast ground coffee g 342 oz capsules filter style mild 50 medium low low medium low medium medium medium medium",
     "wordCloud": "Charts/OL37_Filter Style Mild_Original_Word Cloud.png",
     "featureResults": "Charts/OL37_Filter Style Mild_Original Feature Results.png",
-    "guides": "Guides/OL37_Filter Style Mild_Not Current (Online Exclusive).pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL37_Filter%20Style%20Mild_Not%20Current%20%28Online%20Exclusive%29.pdf",
     "recommendations": [
       {
         "uniqueName": "Filter Style Intense",
@@ -3114,7 +3114,7 @@
     "textualInfo": "original current online exclusive filter style coffees ml lungo roasted smoky 105 intense roasted filter style intense revised capsule design brings velvety long cup fine crema intense compelling notes sandalwood smoke 10 20 50 10 revised capsule design unlocks filter style coffee bold easytodrink morning cup beneath fine veil crema warming cereal strong roasted notes characterize filter style intense velvety textured compelling sandalwood finish hint honeyed sweetness balances long cup bitter light smoky earthy notes membrane capsule fully recyclable smelling aromas fresh arabica coffee ground peeling capsule membrane rediscover delicate taste traditional filter coffee nespresso coffee machine prepare peel membrane extract long 150ml first lungo espresso buttons dash milk coffee gains body sweetness coffeeness remains strong retaining smoky character capsules roast ground coffee roast ground coffee g 342 oz capsules filter style intense 70 medium low low high low medium medium medium medium",
     "wordCloud": "Charts/OL38_Filter Style Intense_Original_Word Cloud.png",
     "featureResults": "Charts/OL38_Filter Style Intense_Original Feature Results.png",
-    "guides": "Guides/OL38_Filter Style Intense_Not Current (Online Exclusive).pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL38_Filter%20Style%20Intense_Not%20Current%20%28Online%20Exclusive%29.pdf",
     "recommendations": [
       {
         "uniqueName": "Filter Style Intense",
@@ -3197,7 +3197,7 @@
     "textualInfo": "original limited made ice ml espresso iced recipe intense recipes ice 110 roasted peppery note arabica blend characterized woody toasted cereal notes perfectly balance classic bitter taste rich dark roast enjoy bold roasted taste freddo intenso south american arabica meet indonesian arabica beans offer intense exciting complement summer season dark roast blend grind beans specifically delicious experience ice best served coffee capsule 40ml handful ice cubes 90g prolong pleasure top cold water cold milk 90ml arabica blend gets coffee mostly peru indonesia freddo intenso gets split roast roasts mediumdark bring fruity notes keep coffees sweetness intact capsules roast ground coffee roast ground coffee g 169 oz capsules freddo intenso 70 medium medium medium medium medium medium medium medium medium",
     "wordCloud": "Charts/OL39_Freddo Intenso_Original_Word Cloud.png",
     "featureResults": "Charts/OL39_Freddo Intenso_Original Feature Results.png",
-    "guides": "Guides/OL39_Freddo Intenso_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL39_Freddo%20Intenso_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Bianco Forte",
@@ -3280,7 +3280,7 @@
     "textualInfo": "original limited made ice ml espresso iced recipe sweet mild recipes ice 110 fruity sweet fruity sweet coffee bursting thirstquenching fruity notes soothes light refreshing rounded character enjoy exhilarating bright fruit notes freddo delicato kenyan arabica beans bring juicy fruit flavours make cool refreshing blend season pour ice lightly roasted ground specifically deliver delicate aromatic notes palate best served coffee capsule ml handful ice cubes g extend treat top cold water cold milk 90ml arabica blend gets coffee mostly kenya indonesia roast two splits mediumlight roasting bring juicy acidity mild blend first split little short heightens bright citrus notes capsules roast ground coffee roast ground coffee g 204 oz capsules freddo delicato 50 medium medium medium medium medium medium medium medium medium",
     "wordCloud": "Charts/OL40_Freddo Delicato_Original_Word Cloud.png",
     "featureResults": "Charts/OL40_Freddo Delicato_Original Feature Results.png",
-    "guides": "Guides/OL40_Freddo Delicato_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL40_Freddo%20Delicato_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Volluto Decaffeinato",
@@ -3363,7 +3363,7 @@
     "textualInfo": "original limited summer coffees ml espresso iced recipe coconut flavoured 115 coconut coconut flavour enhances sweet notes smooth rounded delicately aromatic arabica blend love refreshing exotic taste coconut flavour ice coconut flavour blends beautifully roasted caramelly notes latin american arabica espresso iced delight perfect refreshing summer treat best served coffee capsule ml handful ice cubes g extend treat top cold water cold milk ml latin american arabicas blend known naturally smooth taste brazilian beans bring approachable mellowness blend arabicas central south america give blend rounded taste gave coffees medium roast still dark enough caramel toasted cereal notes develop preserving rounded mouthfeel deliciate acidity coffee capsules artificially flavoured roast ground coffee roast ground coffee artificial flavours g 186 oz capsules coconut flavour ice 50 medium medium medium medium medium medium medium medium medium",
     "wordCloud": "Charts/OL41_Coconut Flavour Over Ice_Original_Word Cloud.png",
     "featureResults": "Charts/OL41_Coconut Flavour Over Ice_Original Feature Results.png",
-    "guides": "Guides/OL41_Coconut Flavour Over Ice_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL41_Coconut%20Flavour%20Over%20Ice_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Gingerbread",
@@ -3446,7 +3446,7 @@
     "textualInfo": "original limited summer coffees ml espresso malted cereal caramel 80 110 caramel cocoa delightful combination malted cereal biscuit caramel notes accompanied sweet aromas delicate hint cocoa 20 30 30 40 tomar un café trade rush slow pace enjoying coffee spanish way cádiz espresso captures taste life sunnyandalusian port city blend brazilian arabica indian robusta malted cereal smooth caramel notes invite unwind enjoy like local take coffee traditional tapas side blend balances equal parts high quality brazilian arabicas indian robustas round syrupy cup medium split roast equal arabica robusta surprisingly robusta light roasted arabica long dark roasted capsules roast ground coffee roast ground coffee g 194 oz capsules cadiz espresso 80 dark low medium medium high medium medium medium medium",
     "wordCloud": "Charts/OL42_Cadiz Espresso_Original_Word Cloud.png",
     "featureResults": "Charts/OL42_Cadiz Espresso_Original Feature Results.png",
-    "guides": "Guides/OL42_Cadiz Espresso_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL42_Cadiz%20Espresso_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Orafio",
@@ -3529,7 +3529,7 @@
     "textualInfo": "original limited summer coffees ml ristretto toasted cereal nuts 100 110 spicy nuts highintensity coffee featuring roasted cereal nutty undertones complemented roasted almonds 20 40 40 40 bica lisbon s dense bitter coffee thick echoes empire principally crafted robusta beans enhanced character harmoniously complemented arabica beans el salvador lisbon bica captures rich history spicy nutty notes run take bold short shot enjoy like local traditional pastel de nata side balances bold coffee experience sweet treat majority robusta blend gets beans nicaragua el salvador arabica beans lightly roasted fine grind robusta beans roasted dark level creates notable difference roasting profiles two varieties within blend capsules roast ground coffee roast ground coffee g 180 oz capsules lisbon bica 100 dark low high high high medium medium medium medium",
     "wordCloud": "Charts/OL43_Lisbon Bica_Original_Word Cloud.png",
     "featureResults": "Charts/OL43_Lisbon Bica_Original Feature Results.png",
-    "guides": "Guides/OL43_Lisbon Bica_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL43_Lisbon%20Bica_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Istanbul Espresso",
@@ -3612,7 +3612,7 @@
     "textualInfo": "original limited espresso ml espresso orange blossom citrus 150 citrus floral experience exclusive rare singleorigin specialty coffee balanced like fresh garden fine terroir elevations colombia 40 20 20 20 discover precious coffee world rich complex neverbefore tasted experience fruit years art coffee journey senses look velvety silky delicate crema amber hues golden reflections smell floral fruity bouquet evoking smells fragrant garden refreshing rain end day taste first sip enjoy unique notes orange blossom fresh citrus aromas emerging coffee average coffee unique coffee 20year expertise encapsulates one coffee capsule arabica new variety arabica beans created nespresso meticulously selected beans coffee unique coffee achieved cross planting two fine arabica coffees grown select famers capsules roast ground coffee roast ground coffee 265 g 094 oz capsules no20 original 60 medium high low low low medium medium medium medium",
     "wordCloud": "Charts/OL44_No.20_Original_Word Cloud.png",
     "featureResults": "Charts/OL44_No.20_Original Feature Results.png",
-    "guides": "Guides/OL44_No.20_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL44_No.20_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "No.20 (Vertuo)",
@@ -3695,7 +3695,7 @@
     "textualInfo": "original limited master origins ml espresso ml lungo fruity biscuity 70 125 berry cereal smooth organic coffee toasted cereal notes nutty aromas mild fruitiness 30 20 40 40 kahawa ya congo comes organic coffee reviving origins umbrella rain rich volcanic soils kivu lakeshores fertile ground congo s farmers bring mild coffee s fruity sweet cereal notes years continued conflict political instability leave many plantation abandoned smallholder farmers tapping small raction congo s potential specialty coffee nespresso reviving origins program joins together south kivu farmers partners support coffee communities raising congo coffee full stature reviving origins congo still carce treasure behold year ll bring smooth coffee mild fruity note alluring sweet cereal nutty aromas arabica coffee sourced rich lake kivu shores eastern congo kahawa ya congo split roast splits dark short first slightly dark long develop intensity coffee capsules roast ground coffee roast ground coffee g 197 oz capsules kahawa ya congo original 70 medium medium low high high medium medium medium medium",
     "wordCloud": "Charts/OL45_Kahawa Ya Congo_Original_Word Cloud.png",
     "featureResults": "Charts/OL45_Kahawa Ya Congo_Original Feature Results.png",
-    "guides": "Guides/OL45_Kahawa Ya Congo_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL45_Kahawa%20Ya%20Congo_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Kahawa Ya Congo (Vertuo)",
@@ -3778,7 +3778,7 @@
     "textualInfo": "original limited barista creations ml lungo milk recipes pumpkin spices flavoured 115 spicy flavoured pumpkin cardamom delicious sweet pumpkin flavour combined wide range spicy notes cloves cinnamon cardamom cakelike sweetness 30 20 20 20 enjoy warming spice notes sweet pumpkin flavour smooth arabica base blend made naturally sweet beans brazil lively washed beans colombia brazilian coffee lightly roasted keep smooth malted cereal notes intact majority colombian coffee beans get short roast release fine aromatics add flavour roasting capsules flavoured roast ground coffee pumpkin spice flavoured roast ground coffee natural flavours g 440 oz capsules pumpkin spice cake original 50 medium medium low low low medium medium medium medium",
     "wordCloud": "Charts/OL46_Pumpkin Spice Cake_Original_Word Cloud.png",
     "featureResults": "Charts/OL46_Pumpkin Spice Cake_Original Feature Results.png",
-    "guides": "Guides/OL46_Pumpkin Spice Cake_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL46_Pumpkin%20Spice%20Cake_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Pumpkin Spice Cake (Vertuo)",
@@ -3861,7 +3861,7 @@
     "textualInfo": "original limited espresso ml espresso toasted cereal woody 110 woody nutty intense coffee toasted cereal flavor reminiscent bread crust secondary woody note adds depth hint nutty notes brown spices provide gives personality blend 30 30 30 30 created collaboration chef jean imbert unforgettable espresso like train journey latin america aromatic blend including peru costa rica emboldened robusta toasted cereal woody notes emerge first sip savour black delectable latte macchiato taste luxury blend brings invitation awaken senses board nespresso festive odyssey inspired belmond journeys coffee created latin american coffees mainly peru costa rica add intensity blend using touch highgrade robusta coffee uses split roast technique create intensity complexity first split composed exclusively arabicas light second one mix arabicas robustas roasted dark develop body roastiness capsules roast ground coffee roast ground coffee g 186 oz capsules unforgettable espresso 80 dark medium medium medium medium medium medium medium medium",
     "wordCloud": "Charts/OL47_Unforgettable Espresso_Original_Word Cloud.png",
     "featureResults": "Charts/OL47_Unforgettable Espresso_Original Feature Results.png",
-    "guides": "Guides/OL47_Unforgettable Espresso_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL47_Unforgettable%20Espresso_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Unforgettable Double Espresso",
@@ -3944,7 +3944,7 @@
     "textualInfo": "original limited barista creations ml espresso ml lungo almond vanilla 115 almond vanilla indulgent coffee notes almond sweet vanilla smooth taste complemented notes brown caramel reminiscent pastries butter 30 20 20 20 created collaboration chef jean imbert allow almond croissant flavour transport heart paris flavoured coffee brazilian colombian blend releases almond buttery pastry notes evoking sense childhood memories jean imbert enjoy cappuccino let unleash almond notes invitation awaken senses board nespresso festive odyssey inspired belmond journeys smooth arabica base blend made naturally sweet beans brazil lively washed beans colombia brazilian coffee lightly roasted keep smooth malted cereal notes intact majority colombian coffee beans get short roast release fine aromatics capsules roast ground coffee vanilla naturalartificial flavours roast ground coffee g 172 oz capsules almond croissant flavour original 50 medium medium low low low medium medium medium medium",
     "wordCloud": "Charts/OL48_Almond Croissant Flavour_Original_Word Cloud.png",
     "featureResults": "Charts/OL48_Almond Croissant Flavour_Original Feature Results.png",
-    "guides": "Guides/OL48_Almond Croissant Flavour_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL48_Almond%20Croissant%20Flavour_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Almond Croissant Flavour (Vertuo)",
@@ -4027,7 +4027,7 @@
     "textualInfo": "original limited barista creations ml lungo cereal toasted sesame 115 cereal toastedroasted sesame peanut aromatic sweet blend notes toasted sesame caramel mix nuts including peanuts cereallike undertones oat barley add toasty nutty flavor 30 20 20 20 created collaboration chef jean imbert peanut roasted sesame flavour tribute gastronomic voyages latin american african arabicas coffee concocts notes roasted sesame popcorn mix almonds hazelnuts peanuts making unmissable coffee festive season enjoy reverso let journey taste roll blond caramel notes invitation awaken senses board nespresso festive odyssey inspired belmond journeys smooth arabica base blend made naturally sweet beans brazil lively washed beans colombia latin american beans roasted medium dark quickly develop sweetness coffees roasted bit long develop velvety texture add flavour roasting capsules roast ground coffee vanilla naturalartificial flavours roast ground coffee g 172 oz capsules peanut roasted sesame flavour 50 medium medium low low low medium medium medium medium",
     "wordCloud": "Charts/OL49_Peanut & Roasted Sesame Flavour_Original_Word Cloud.png",
     "featureResults": "Charts/OL49_Peanut & Roasted Sesame Flavour_Original Feature Results.png",
-    "guides": "Guides/OL49_Peanut & Roasted Sesame Flavour_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/OL49_Peanut%20%26%20Roasted%20Sesame%20Flavour_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Peanut and Roasted Sesame Flavour (Vertuo)",
@@ -4110,7 +4110,7 @@
     "textualInfo": "vertuo current long coffee ml coffee smooth strong 90 126 intense intense long black coffee distinctly lingering aftertaste roasted notes thick coffee crema pairs perfectly milk enriches blend brown caramel notes 10 40 50 30 blend nicaraguans washed robusta coffee beans latin american arabica thick roasted notes lingering finish arabicas get dark roast low acidity bring brown sugar aroma nicaraguan coffee gets long roast develop robusta coffee beans bold bitter notes intenso created combining latin american arabicas nicaraguan robustas arabicas get dark roast low acidity bring brown sugar aroma robustas get long roast develop bitter notes lingering aftertaste capsules roast ground coffee nespresso system roast ground coffee g 441 oz capsules intenso 90 dark low high high medium medium medium medium medium",
     "wordCloud": "Charts/VL1_Intenso_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL1_Intenso_Vertuo Feature Results.png",
-    "guides": "Guides/VL1_Intenso_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL1_Intenso_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Mexico",
@@ -4193,7 +4193,7 @@
     "textualInfo": "vertuo current long coffee ml coffee rich strong 80 126 intense long slow roast intensifies nicaraguan guatemalan cereal aromatics notes spice wood highgrown arabica coffees give deep roast build rich intensity vertuo coffee pod remains smooth fullbodied milk may mellow stormio still taste powerful roasted notes blow away gathering storm 10 40 40 40 love stormio darkly roasted blend rushes myriad aromas strength could come pure arabica coffees capsules roast ground coffee nespresso system roast ground coffee g 440 oz capsules stormio 80 dark low high high high medium medium medium medium",
     "wordCloud": "Charts/VL2_Stormio_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL2_Stormio_Vertuo Feature Results.png",
-    "guides": "Guides/VL2_Stormio_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL2_Stormio_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Odacio",
@@ -4276,7 +4276,7 @@
     "textualInfo": "vertuo current long coffee ml coffee bold lively 70 126 intense nicaraguan arabica gives odacio soft solid cereal note daringly blended touch ethiopian arabica adds splash acidity delicate fruitiness split roast coffees vertuo coffee pod long light roast coffees develops body structure keeps acidity aromatics intact odacio brings fullbodied cereal note dares surprise flourish fruitiness delicate acidity end bold lively hits palate great elegance 20 40 40 40 love odacio lively intense vertuo coffee capsules roast ground coffee nespresso system roast ground coffee g 440 oz capsules odacio 70 medium low high high high medium medium medium medium",
     "wordCloud": "Charts/VL3_Odacio_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL3_Odacio_Vertuo Feature Results.png",
-    "guides": "Guides/VL3_Odacio_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL3_Odacio_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Il Caffe",
@@ -4359,7 +4359,7 @@
     "textualInfo": "vertuo current long coffee ml coffee intense spiced 70 137 spicy woody intense coffee roasted woody spicy notes thick texture low acidity pairs perfectly milk 10 30 40 20 double take master origins mexico double washed robusta because selective handpicking thoroughly washing arabica arabicas robustas coffee come mexico arabica coffee beans given medium roast uncommon double washed robusta coffee beans get long deep roast capsules roast ground coffee nespresso system roast ground coffee g 440 oz capsules mexico 70 medium low medium high low medium medium medium medium",
     "wordCloud": "Charts/VL4_Mexico_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL4_Mexico_Vertuo Feature Results.png",
-    "guides": "Guides/VL4_Mexico_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL4_Mexico_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Stormio",
@@ -4442,7 +4442,7 @@
     "textualInfo": "vertuo current long coffee ml coffee smooth balanced 60 126 unknown harmonious blend latin american arabicas sing smooth cereal notes honeyed sweetness pairs perfectly milk enhances softness biscuity notes 10 20 30 30 help fall melozio canadian bestseller harmonious blend fine quality brazilian central american arabicas roasted create rounded coffee smooth perfectly balanced harmonious blend latin american arabicas mostly brazil guatemala rich smooth cereal notes honeyed sweetness brazilian arabicas roasted separately develop sweet cereal notes arabicas get lightly roasted round melozio capsules roast ground coffee nespresso system roast ground coffee g 440 oz capsules melozio 60 medium low low medium medium medium medium medium medium",
     "wordCloud": "Charts/VL5_Melozio_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL5_Melozio_Vertuo Feature Results.png",
-    "guides": "Guides/VL5_Melozio_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL5_Melozio_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Melozio Decaffeinato",
@@ -4525,7 +4525,7 @@
     "textualInfo": "vertuo current long coffee ml coffee smooth balanced 60 126 cereal split roast vertuo coffee capsule s arabica coffees allows brazilian bourbon develop cereal note become sweet smooth coffee lightly roasting arabicas rounds melozio melozio decaffeinato delights twice latin american arabicas still sing smooth cereal honeyed sweetness even decaffeination 10 20 30 30 capsules roast ground coffee nespresso system decaffeinated roast ground coffee g 440 oz capsules melozio decaffeinato 60 medium low low medium medium medium medium medium medium",
     "wordCloud": "Charts/VL6_Melozio Decaffeinato_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL6_Melozio Decaffeinato_Vertuo Feature Results.png",
-    "guides": "Guides/VL6_Melozio Decaffeinato_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL6_Melozio%20Decaffeinato_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Melozio Decaffeinato",
@@ -4608,7 +4608,7 @@
     "textualInfo": "vertuo current long coffee ml coffee sweet velvety 50 126 unknown vertuo coffee capsule blends decaffeinated regular arabica coffees brazil ethiopia decaffeination half coffee light quick roast brazilian arabica coffee gives vertuo coffee pod roundness sweetness chose blend ethiopian coffee delicate aromatics would add finesse half coffee nespresso decaffeinated taste full 10 10 20 20 love love half caffeinato smooth velvety texture sweet biscuit note capsules roast ground coffee nespresso system roast ground coffee g 440 oz capsules half caffeinato 50 medium low low low low medium medium medium medium",
     "wordCloud": "Charts/VL7_Half Caffeinato_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL7_Half Caffeinato_Vertuo Feature Results.png",
-    "guides": "Guides/VL7_Half Caffeinato_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL7_Half%20Caffeinato_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "El Salvador",
@@ -4691,7 +4691,7 @@
     "textualInfo": "vertuo current long coffee ml coffee sweet jam 50 137 biscuity winey coffee displays sweet biscuity fruity jam cereal notes mild low bitterness 40 10 20 20 grown shadetrees treasured coffee varieties find ideal terroir nestled beside active volcanoes delivering mild cup sweet biscuit fruity jam notes red honey process involves carefully adjusting amount sweet pulp left drying cherry complements arabica blend washed processed beans sweet aromatics allarabica blend sourced apaneca ilamatepec mountain range el salvador selection red honey processed beans complements washed arabica beans distinctive sweetness overall light roast red honey roasted separately rest make unique processing method portion washed slightly long dark capsules roast ground coffee nespresso system roast ground coffee g 440 oz capsules el salvador 50 medium high low low low medium medium medium medium",
     "wordCloud": "Charts/VL8_El Salvador_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL8_El Salvador_Vertuo Feature Results.png",
-    "guides": "Guides/VL8_El Salvador_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL8_El%20Salvador_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Colombia - Fairtrade",
@@ -4774,7 +4774,7 @@
     "textualInfo": "vertuo current long coffee ml coffee red fruit notes 50 137 unknown long fermentation highgrown colombian arabica delivers particularly juicy fruity sweet cup pairs perfectly milk 50 10 10 10 cool climate highaltitude colombia aguadas mountains means coffee takes long ferment classic washed coffee processing method complex timeconsuming calls even skill fullywashed coffee sourced highaltitude region aguadas colombia separate coffee batches roasting given fast light roast small portion roasted little long deep add complexity cup capsules roast ground coffee nespresso system roast ground coffee g 440 oz capsules colombia fairtrade 50 medium high low low low medium medium medium medium",
     "wordCloud": "Charts/VL9_Colombia - Fairtrade_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL9_Colombia - Fairtrade_Vertuo Feature Results.png",
-    "guides": "Guides/VL9_Colombia - Fairtrade_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL9_Colombia%20-%20Fairtrade_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Colombia - Fairtrade",
@@ -4857,7 +4857,7 @@
     "textualInfo": "vertuo current long coffee ml coffee fruity lightlybodied 20 126 cereal fruity vertuo coffee capsule arabica blend two renowned washed coffees loved lively acidity distinct fruity notes split roast blended highgrown colombian coffee kenyan coffee create light roast coffee light body lovable character juicy acidity shines solelio toasted cereal note hard miss classic fruitiness colombian kenyan coffees really ease morning vertuo coffee 30 10 10 10 love solelio gentle start day capsules roast ground coffee nespresso system roast ground coffee g 440 oz capsules solelio 20 blonde medium low low low medium medium medium medium",
     "wordCloud": "Charts/VL10_Solelio_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL10_Solelio_Vertuo Feature Results.png",
-    "guides": "Guides/VL10_Solelio_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL10_Solelio_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Carafe Pour-Over Style Mild",
@@ -4940,7 +4940,7 @@
     "textualInfo": "vertuo current long coffee exclusively use vertuo next vertuo pop vertuo lattissima vertuo creatista machines ml alto roasted woody 70 105 roasted woody spicy intense coffee roasted woody spicy notes 10 30 30 30 alto onice delivers full palate strong cereal deep woody notes long cup savour home onthego bold aromatics beautiful bitter cocoa spice roasted notes comes golden caramel note faint shimmer acidity balance deeproasted blend coffees colombia india beyond complex blend several origins indian beans cocoa spice notes comes colombian arabica shimmer acidity long cup size arabicas robustas roasted together first split second split composed exclusively decaffeinated arabica roasted slightly short time capsules roast ground coffee nespresso system roast ground coffee decaffeinated roast ground coffee g 423 oz capsules alto onice 70 medium low medium medium medium medium medium medium medium",
     "wordCloud": "Charts/VL11_Alto Onice_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL11_Alto Onice_Vertuo Feature Results.png",
-    "guides": "Guides/VL11_Alto Onice_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL11_Alto%20Onice_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Cold Brew Style Intense",
@@ -5023,7 +5023,7 @@
     "textualInfo": "vertuo current long coffee exclusively use vertuo next vertuo pop vertuo lattissima vertuo creatista machines ml alto honeyed delicate 40 105 cereal honey ambrato delicate blend light toasted bread honey notes light body 10 20 20 20 taste alto ambrato s honeyed cereal toasted notes caramel sweetness fruity touch sparkles lightly roasted blend fine latin american arabicas robusta home go long cup warm rich golden aromatics arabica robusta coffees latin america give rich warmth lightroast long cup taste toasted cereal sweet caramel notes balanced fruity touch capsules roast ground coffee nespresso system roast ground coffee decaffeinated roast ground coffee g 423 oz capsules alto ambrato 40 blonde low low low low medium medium medium medium",
     "wordCloud": "Charts/VL12_Alto Ambrato_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL12_Alto Ambrato_Vertuo Feature Results.png",
-    "guides": "Guides/VL12_Alto Ambrato_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL12_Alto%20Ambrato_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Volluto",
@@ -5106,7 +5106,7 @@
     "textualInfo": "vertuo current long coffee exclusively use vertuo next vertuo pop vertuo lattissima vertuo creatista machines ml cold brew sweet caramel roasted cereal 1085 caramel roasted cereal smooth silkytextured coffee roasted caramel notes low bitterness pleasant acidity typical cold brew extractions inspired hot bloom method cold brew style intense reimagined nespresso begins brewing hot draw best beans continues cool water leave bitterness behind brewed minutes taste roasted arabicas caramel notes smooth silkytextured coffee best experience use cool water 10c 50f vertuo water tank add 34 ice cubes coffee fl oz ml servings fl oz 1725 ml arabica blend mostly uses brazilian bourbons guatemalan arabicas vertuo coffee gets split roast allows brazilian bourbon develop cereal note become sweet smooth coffee lightly roasting arabicas rounds blend cold brew style intense capsules roast ground coffee nespresso system roast ground coffee decaffeinated roast ground coffee g 423 oz capsules cold brew style intense 50 medium medium medium medium medium medium medium medium medium",
     "wordCloud": "Charts/VL13_Cold Brew Style Intense_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL13_Cold Brew Style Intense_Vertuo Feature Results.png",
-    "guides": "Guides/VL13_Cold Brew Style Intense_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL13_Cold%20Brew%20Style%20Intense_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Alto Ambrato",
@@ -5189,7 +5189,7 @@
     "textualInfo": "vertuo current long coffee exclusively use vertuo next vertuo lattissima vertuo creatista machines ml carafe roasted smokey 112 unknown carafe pourover style coffee opens possibilities sharing others simply extending pleasure nespresso moment creating long cup means short journey delivering right intensity ml also optimum crema distinct flavour profile something happen overnight years development able refine perfect product desire welcoming large ever coffee family elevate drinking experience carafe accessory set specifically designed reveal coffee s unique aromatics inspire new nespresso coffee ritual 10 30 30 30 carafe pourover syle coffee like none range easytodrink blend peruvian colombian washed arabicas complement contrasting qualities create unique aromatic profile capsules roast ground coffee vertuo next machine roast ground coffee g 423 oz capsules carafe pourover style 70 medium low medium medium medium medium medium medium medium",
     "wordCloud": "Charts/VL14_Carafe Pour-Over Style_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL14_Carafe Pour-Over Style_Vertuo Feature Results.png",
-    "guides": "Guides/VL14_Carafe Pour-Over Style_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL14_Carafe%20Pour-Over%20Style_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Alto Ambrato",
@@ -5272,7 +5272,7 @@
     "textualInfo": "vertuo current long coffee exclusively use vertuo next vertuo lattissima vertuo creatista machines ml carafe toasted cereal malted 112 unknown round easy drink carafe pourover style mild balanced sensorial profile toasted cereal notes pleasant sweetness blend roasted using split roast technique 6040 first split includes origins roasted light degree average roasting time second split includes colombian coffees roasted slightly dark degree creating mild roast overall classic vertuo roast 10 20 20 10 smooth toasted cereal malted notes grace every last drop subtly sweet latin american arabica blend coffee inspired pourover method capsules roast ground coffee vertuo next machine roast ground coffee g 423 oz capsules carafe pourover style mild 50 medium low low low low medium medium medium medium",
     "wordCloud": "Charts/VL15_Carafe Pour-Over Style Mild_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL15_Carafe Pour-Over Style Mild_Vertuo Feature Results.png",
-    "guides": "Guides/VL15_Carafe Pour-Over Style Mild_Not Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL15_Carafe%20Pour-Over%20Style%20Mild_Not%20Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Double Espresso Dolce",
@@ -5355,7 +5355,7 @@
     "textualInfo": "vertuo current gran lungo ml gran lungo intense fullbodied 80 110 cocoa intense coffee gran lungo size comes thickbodied full cocoa oak notes pairs perfectly milk 10 40 40 40 intense vertuo coffee gran lungo size fortado indian robusta comes full force cocoa oak wood notes emerge latin american arabicas chose high quality washed latin american arabicas blended naturally processed indian robusta highend quality intensity full body first long roast medium temperatures brings intensity indian robusta without harshness arabicas get dark developing rich cocoa wood notes capsules roast ground coffee nespresso system roast ground coffee g 353 oz capsules fortado 80 dark low high high high medium medium medium medium",
     "wordCloud": "Charts/VL16_Fortado_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL16_Fortado_Vertuo Feature Results.png",
-    "guides": "Guides/VL16_Fortado_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL16_Fortado_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Fortado Decaffeinato",
@@ -5438,7 +5438,7 @@
     "textualInfo": "vertuo current gran lungo ml gran lungo intense fullbodied 80 110 woody thickbodied character cocoa oak notes fortado decaffeinated recipe pairs perfectly milk 10 40 40 40 intense gran lungo vertuo coffee decaffeinated fortado decaffeinato indian robusta comes full force cocoa oak wood notes still strong decaffeinated latin american arabicas chose high quality washed latin american arabicas blended naturally processed indian robusta highend quality intensity full body first long roast medium temperatures brings intensity indian robusta without harshness arabicas get dark developing rich cocoa wood notes capsules roast ground coffee nespresso system decaffeinated roast ground coffee g 353 oz capsules fortado decaffeinato 80 dark low high high high medium medium medium medium",
     "wordCloud": "Charts/VL17_Fortado Decaffeinato_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL17_Fortado Decaffeinato_Vertuo Feature Results.png",
-    "guides": "Guides/VL17_Fortado Decaffeinato_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL17_Fortado%20Decaffeinato_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Fortado Decaffeinato",
@@ -5521,7 +5521,7 @@
     "textualInfo": "vertuo current gran lungo ml gran lungo malty cereal notes 70 121 unknown oneofakind process fermentation hotspring waters brings remarkably balanced clean taste cup master origins costa rica fullbodied mellow malty sweet cereal note runs crystal clarity 10 30 40 30 high costa rica mountains small selection arabica coffee beans soaked rainforest hot spring waters costa rica contains scarce coffee whose rare process highlights malty sweet cereal character craftsman coffee arabica fully washed coffee sourced high costa rican mountains first batch roasted medium temperatures reach mediumdark colour develop sweet malty notes second batch roasted intensively reach dark color desired intensity capsules roast ground coffee nespresso system roast ground coffee g 370 oz capsules costa rica 70 medium low medium high medium medium medium medium medium",
     "wordCloud": "Charts/VL18_Costa Rica_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL18_Costa Rica_Vertuo Feature Results.png",
-    "guides": "Guides/VL18_Costa Rica_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL18_Costa%20Rica_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Paris Espresso",
@@ -5604,7 +5604,7 @@
     "textualInfo": "vertuo current gran lungo ml gran lungo cereal mild 60 110 unknown mild gran lungo fooled inner strength behind cereal note subtle acidity hint robusta oomph addition milk softens cereal notes keeping enchanting character 30 40 30 30 capsules roast ground coffee nespresso system roast ground coffee g 353 oz capsules arondio 60 medium medium high medium medium medium medium medium medium",
     "wordCloud": "Charts/VL19_Arondio_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL19_Arondio_Vertuo Feature Results.png",
-    "guides": "Guides/VL19_Arondio_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL19_Arondio_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Shanghai Lungo",
@@ -5687,7 +5687,7 @@
     "textualInfo": "vertuo current gran lungo ml gran lungo floral cereal 40 110 floral split roast medium roast coffee ethiopian arabicas get light short roast keep floral notes alive long dark roast kenyan coffee adds body vertuo coffee capsule brewing also designed bring great crema keeping floral aromatics intact juicy coffee combines subtle floral cereal notes 30 20 20 40 inizio helping hand easing every day velvety smooth body kenyan ethiopian arabica blend comes warmth strength rich toasted cereal note wild florals give laidback sunday feeling capsules roast ground coffee nespresso system roast ground coffee g 353 oz capsules inizio 40 blonde medium low low high medium medium medium medium",
     "wordCloud": "Charts/VL20_Inizio_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL20_Inizio_Vertuo Feature Results.png",
-    "guides": "Guides/VL20_Inizio_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL20_Inizio_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Paris Espresso",
@@ -5770,7 +5770,7 @@
     "textualInfo": "vertuo current gran lungo ml gran lungo floral delicate 40 121 unknown ethiopia naturally flowery coffee gains fruitiness complexity signature drying method revealing ripe blueberry notes hint musk 30 10 20 10 ethiopia dry processed arabica involves sundrying coffee cherry continual handturning ensure even drying calls great care ethiopian farmers used method long anyone else capsules roast ground coffee nespresso system roast ground coffee g 335 oz capsules ethiopia vertuo 40 blonde medium low low low medium medium medium medium",
     "wordCloud": "Charts/VL21_Ethiopia_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL21_Ethiopia_Vertuo Feature Results.png",
-    "guides": "Guides/VL21_Ethiopia_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL21_Ethiopia_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "India",
@@ -5853,7 +5853,7 @@
     "textualInfo": "vertuo current espresso ml espresso exceptionally intense velvety 110 99 cereal woody cocoa split roast coffees give robustas dark roast light slightly long roast colombian arabica beans keeps acidity intact develops hint nutty note il caffè goes like dream classic aroma promises delight familiar flavour one remember crafted il caffè traditional black coffee experience want soften one intensity add milk make cappuccino 10 40 50 10 split roast coffees give robustas dark roast light slightly long roast colombian arabica beans keeps acidity intact develops hint nutty note il caffè goes like dream classic aroma promises delight familiar flavour one remember crafted il caffè traditional black coffee experience want soften one intensity add milk make cappuccino capsules roast ground coffee nespresso system roast ground coffee g 247 oz capsules il caffe 110 dark low high high low medium medium medium medium",
     "wordCloud": "Charts/VL22_Il Caffe_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL22_Il Caffe_Vertuo Feature Results.png",
-    "guides": "Guides/VL22_Il Caffe_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL22_Il%20Caffe_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Mexico",
@@ -5936,7 +5936,7 @@
     "textualInfo": "vertuo current espresso ml espresso highly intense powerful 110 99 intense woody harshness diavolitto fine oak wood leather notes smooth creamy texture addition milk complements natural full body 10 40 40 40 short devil coffee capsule intense powerful espresso definitely packed character oak leather aromas punch creamy texture diavolitto s blend robustas including washed guatemalan robusta latin american arabicas blend robustas arabicas latin america rare robusta guatemala gives coffee soft creamy texture highly roasted robusta arabica coffee blend split roast coffee origin characteristics stay play capsules roast ground coffee nespresso system roast ground coffee g 247 oz capsules diavolitto 110 dark low high high high medium medium medium medium",
     "wordCloud": "Charts/VL23_Diavolitto_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL23_Diavolitto_Vertuo Feature Results.png",
-    "guides": "Guides/VL23_Diavolitto_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL23_Diavolitto_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Unforgettable Double Espresso",
@@ -6019,7 +6019,7 @@
     "textualInfo": "vertuo current espresso ml espresso fullbodied creamy 90 99 cocoa fullbodied bold espresso taste comes blending south american arabicas robusta costa rican arabica adds soft cereal note decaffeinated taste highly roasted altissio decaffeinato true original still cloaked creamy royal robes 10 30 30 30 altissio decaffeinato walks ll notice capsules roast ground coffee nespresso system roast ground coffee g 246 oz capsules altissio decaffeinato 90 dark low medium medium medium medium medium medium medium",
     "wordCloud": "Charts/VL24_Altissio Decaffeinato_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL24_Altissio Decaffeinato_Vertuo Feature Results.png",
-    "guides": "Guides/VL24_Altissio Decaffeinato_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL24_Altissio%20Decaffeinato_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Altissio",
@@ -6102,7 +6102,7 @@
     "textualInfo": "vertuo current espresso ml espresso fullbodied creamy 90 99 intense bold espresso cloaked creamy roasty cereal note pairs perfectly milk complements natural full body 10 30 10 30 south american arabicas touch brazilian robusta give fullbodied bold espresso taste balanced coffees costa rican arabica adds soft cereal note royal robes altissio vertuo espresso coffee cloaked thick velvety crema full roasty notes soft creamy cereal note combination arabicas latin america costa rica little touch brazilian robusta fullbodied cup altissio gets intense short roast bring fullbodied character bold vertuo espresso coffee capsules roast ground coffee nespresso system roast ground coffee g 246 oz capsules altissio 90 dark low medium low medium medium medium medium medium",
     "wordCloud": "Charts/VL25_Altissio_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL25_Altissio_Vertuo Feature Results.png",
-    "guides": "Guides/VL25_Altissio_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL25_Altissio_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Altissio",
@@ -6185,7 +6185,7 @@
     "textualInfo": "vertuo current espresso ml espresso high andes 60 108 fruity high meters even meters tucked slopes andes found organic processes passed generation generation coffee blessed meticulous care smallholder farmers peru organic split roast reveal bright juicy acidity elegant fruity notes accented smooth toasted cereal note 40 30 30 30 love traveled across remote peruvian regions search fine organic certified arabica coffee beans capsules roast ground coffee nespresso system roast ground coffee g 246 oz capsules peru organic vertuo 60 medium high medium medium medium medium medium medium medium",
     "wordCloud": "Charts/VL26_Peru Organic_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL26_Peru Organic_Vertuo Feature Results.png",
-    "guides": "Guides/VL26_Peru Organic_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL26_Peru%20Organic_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Nicaragua",
@@ -6268,7 +6268,7 @@
     "textualInfo": "vertuo current espresso ml espresso caramel roasted 60 99 caramel crafted orafio light long roasted ugandan robusta roast keeps coffee typical body bitterness check still delivering liquorice spice notes hallmarks origin naturally processed robusta short dark roast brazilian costa rican arabicas balances blend orafio complex coffee carrying delicious caramel note lingering long finish beautiful roasted notes graced hint acidity make luxurious coffee worth weight gold 10 30 30 20 makes orafio glow cup combination masterful blending bringing together high quality arabica robusta coffees diversity origins skilful split roasting sounds bit like level craftmanship goes coffee namesake italians among us recognize link word goldsmith capsules roast ground coffee nespresso system roast ground coffee g 218 oz capsules orafio 60 medium low medium medium low medium medium medium medium",
     "wordCloud": "Charts/VL27_Orafio_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL27_Orafio_Vertuo Feature Results.png",
-    "guides": "Guides/VL27_Orafio_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL27_Orafio_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Lisbon Bica",
@@ -6351,7 +6351,7 @@
     "textualInfo": "vertuo current espresso ml espresso berry winey 50 99 berry fill cup wildly aromatic toccanto juicy coffee whose latin american arabicas bring candied winey fruit notes palate 30 20 20 20 barrel fine south central american coffee origins gather together toccanto bring wild juicy coffee candied ripe fruity notes arabica blend beautifully balances acidity body aromatic cup capsules roast ground coffee nespresso system roast ground coffee g 218 oz capsules toccanto 50 medium medium low low low medium medium medium medium",
     "wordCloud": "Charts/VL28_Toccanto_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL28_Toccanto_Vertuo Feature Results.png",
-    "guides": "Guides/VL28_Toccanto_Not Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL28_Toccanto_Not%20Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Double Espresso Dolce",
@@ -6434,7 +6434,7 @@
     "textualInfo": "vertuo current espresso ml espresso light sweet 40 99 unknown sweet mild harmonious blend delicate biscuity aromas perfectly pairs dash milk looking even smooth taste 20 20 20 20 light sweet espresso comes biscuity aroma fine south american arabicas might make golden standard voltesso gets light biscuity note brazilian bourbon coffee colombian arabicas add hint acidity colombian coffee roasted light short preserve acidity brazilian bourbon roasted long time reveal biscuity notes capsules roast ground coffee nespresso system roast ground coffee g 183 oz capsules voltesso 40 blonde low low low low medium medium medium medium",
     "wordCloud": "Charts/VL29_Voltesso_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL29_Voltesso_Vertuo Feature Results.png",
-    "guides": "Guides/VL29_Voltesso_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL29_Voltesso_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Volluto",
@@ -6517,7 +6517,7 @@
     "textualInfo": "vertuo current espresso ml double espresso dark bold 110 110 unknown highly roasted blend arabica robusta gives double espresso scuro smoky character dark cocoa subtle vanilla notes pairs perfectly milk 10 30 30 30 double espresso scuro highly roasted blend robusta arabica central american coffees robusta guatemala arabica costa rican robusta nespresso vertuoline double shot helps pack double enjoyment intense blend created using robustas guatemala origins combination arabicas costa rica separate robustas arabicas give full roast develop intense cocoa notes smoky character coffee capsules roast ground coffee nespresso system roast ground coffee g 352 oz capsules double espresso scuro 110 dark low medium medium medium medium medium medium medium",
     "wordCloud": "Charts/VL30_Double Espresso Scuro_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL30_Double Espresso Scuro_Vertuo Feature Results.png",
-    "guides": "Guides/VL30_Double Espresso Scuro_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL30_Double%20Espresso%20Scuro_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Double Espresso Chiaro",
@@ -6600,7 +6600,7 @@
     "textualInfo": "vertuo current espresso ml double espresso dense wild 80 110 unknown intense yet balanced double espresso woody earthy roasted cereal notes pairs perfectly milk enriches blend surprisingly prominent notes caramel 10 30 30 20 nespresso vertuoline double shot last course go ahead finish meal bang blend latin american arabica coffees mainly coming brazil colombia washed natural arabicas roasted separately although get intense short roast done bring best part blend capsules roast ground coffee nespresso system roast ground coffee g 352 oz capsules double espresso chiaro 80 dark low medium medium low medium medium medium medium",
     "wordCloud": "Charts/VL31_Double Espresso Chiaro_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL31_Double Espresso Chiaro_Vertuo Feature Results.png",
-    "guides": "Guides/VL31_Double Espresso Chiaro_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL31_Double%20Espresso%20Chiaro_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Peru Organic (Vertuo)",
@@ -6683,7 +6683,7 @@
     "textualInfo": "vertuo current espresso ml double espresso cereal malted 50 110 cereal exceptionally smooth double espresso gets sweetness malty toasted cereal notes fine blend arabica robusta pairs perfectly milk 20 20 30 50 masterful blending split roasting different arabica robusta beans secret behind mild smooth double espresso latin american arabicas deliver delicious malty toasted cereal note sings beautifully balanced cup double espresso dolce created combining latin american arabicas ugandan robustas batch arabicas roasted light short another combination arabica robusta get slightly long dark roast capsules roast ground coffee nespresso system roast ground coffee g 335 oz capsules double espresso dolce 50 medium low low medium high medium medium medium medium",
     "wordCloud": "Charts/VL32_Double Espresso Dolce_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL32_Double Espresso Dolce_Vertuo Feature Results.png",
-    "guides": "Guides/VL32_Double Espresso Dolce_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL32_Double%20Espresso%20Dolce_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Unforgettable Double Espresso",
@@ -6766,7 +6766,7 @@
     "textualInfo": "vertuo current barista creations ml coffee cappucino latte macchiato hazelnut flavoured 126 hazelnut flavoured flavoured blend delights classic grilled hazelnut flavour complemented notes biscuits caramel 10 10 20 00 made name changes barista creations flavoured range vertuo good reflect various changes made recipe flavouring extracts recommended cup size bringing rich caramelized flavour roasted hazelnuts coffee called perfectly roasting smooth arabica beans latin america africa sweet velvety blend delicate biscuit note meets bittersweet complexity hazelnut flavour barista creations flavoured roasted hazelnut smiles makes milky treat rush grilled hazelnut praline caramel biscuit notes arabica blend sourced brazil ethiopia another latin american country latin american beans roasted medium dark quickly develop sweetness coffees roasted bit long develop velvety texture capsules artificially flavoured hazelnut roast ground coffee nespresso system roast ground coffee g 440 oz capsules roasted hazelnut 50 medium low low low low medium medium medium medium",
     "wordCloud": "Charts/VL33_Roasted Hazelnut_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL33_Roasted Hazelnut_Vertuo Feature Results.png",
-    "guides": "Guides/VL33_Roasted Hazelnut_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL33_Roasted%20Hazelnut_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Golden Caramel",
@@ -6849,7 +6849,7 @@
     "textualInfo": "vertuo current barista creations ml coffee cappucino latte macchiato caramel flavoured 126 caramel flavoured flavoured blend delights classic caramel flavour combined sweet biscuit notes 10 10 20 20 made name changes barista creations flavoured range vertuo good reflect various changes made recipe flavouring extracts recommended cup size barista creations flavoured golden caramel brings weekend mood day sweet velvety base blend latin american african arabicas comes comforting caramel flavour biscuity sweetness echo coffee blend one got layers indulgence irresistibly inviting cozy time moment calls insider tip dash milk caramel biscuit notes missed capsules artificially flavoured caramel roast ground coffee nespresso system roast ground coffee artificial flavour g 440 oz capsules golden caramel 50 medium low low low low medium medium medium medium",
     "wordCloud": "Charts/VL34_Golden Caramel_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL34_Golden Caramel_Vertuo Feature Results.png",
-    "guides": "Guides/VL34_Golden Caramel_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL34_Golden%20Caramel_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Corto",
@@ -6932,7 +6932,7 @@
     "textualInfo": "vertuo current barista creations ml coffee cappucino latte macchiato vanilla flavoured 126 vanilla flavoured flavoured blend delights classic vanilla flavour combined sweet biscuit candied cereal notes coming delicate arabica base 10 10 20 20 made name changes barista creations flavoured range vertuo good reflect various changes made recipe flavouring extracts recommended cup sizetuck barista creations flavoured sweet vanilla dreamy taste vanilla dances delicious coffee add vanilla flavour lightroasted arabicas latin america africa discover much cup takes swirl flavours notes caramel vanilla cake excuse need pause enjoy little metime share loved ones insider tip dash milk highlights vanilla flavour capsules roast ground coffee nespresso system vanilla flavour natural flavours roast ground coffee natural flavour g 440 oz capsules sweet vanilla 50 medium low low low low medium medium medium medium",
     "wordCloud": "Charts/VL35_Sweet Vanilla_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL35_Sweet Vanilla_Vertuo Feature Results.png",
-    "guides": "Guides/VL35_Sweet Vanilla_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL35_Sweet%20Vanilla_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Nocciola",
@@ -7015,7 +7015,7 @@
     "textualInfo": "vertuo current barista creations ml coffee cappucino latte macchiato dark chocolate flavoured 126 chocolate flavoured flavoured blend delights elegant dark chocolate flavour complemented notes caramel almond cereal 10 10 20 20 satisfy chocolate craving barista creations flavoured rich chocolate velvetysmooth blend latin american african arabicas meets authentic chocolate flavour inviting make occasion coffee moment like good dark chocolaterich complexthis coffee unfolds layers flavour sweetness elevates dessert status insider tip dash milk rush nuts biscuit notes emerges accompany chocolate flavour capsules flavoured roast ground coffee nespresso system roast ground coffee cocoa flavour natural flavours g 440 oz capsules rich chocolate 50 medium low low low low medium medium medium medium",
     "wordCloud": "Charts/VL36_Rich Chocolate_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL36_Rich Chocolate_Vertuo Feature Results.png",
-    "guides": "Guides/VL36_Rich Chocolate_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL36_Rich%20Chocolate_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Sweet Vanilla",
@@ -7098,7 +7098,7 @@
     "textualInfo": "vertuo current barista creations ml espresso milk recipes sweet smooth 99 smooth sweet soft smooth creamy texture sweet notes caramel nuts biscuit especially crafted recipes milk 10 20 30 30 intense yet smooth taste espresso specially designed making cappuccinos latte macchiatos flat whites expertly crafted blend arabicas china colombia brazil ethiopia creates world rich roasted notes land harmony creamy sweetness milk arabica blend sourced beans diversity origins stretching china colombia brazil ethiopia roasted two splits 1 mediumdark majority coffee 2 light light balance overall roast aiming best combination work well milk capsules roast ground coffee nespresso system roast ground coffee g 219 oz capsules bianco piccolo 70 medium low low medium medium medium medium medium medium",
     "wordCloud": "Charts/VL37_Bianco Piccolo_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL37_Bianco Piccolo_Vertuo Feature Results.png",
-    "guides": "Guides/VL37_Bianco Piccolo_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL37_Bianco%20Piccolo_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Bianco Doppio",
@@ -7181,7 +7181,7 @@
     "textualInfo": "vertuo current barista creations ml double espresso milk recipes sweet milky 110 sweet smooth caramelly lightroast arabica blend crafted specifically large milky coffees 00 10 10 30 crafted coffee match long milky treats aromatic blend light roasted arabicas kenya colombia nicaragua signature split roast develops delicious caramelly notes smooth texture bianco doppio milk coffee pairs beautifully milk large cappuccinos flat whites arabica blend sourced beans diversity origins stretching china colombia brazil ethiopia majority coffee goes light first split second split pushed bit clear light roast overall capsules roast ground coffee nespresso system roast ground coffee g 359 oz capsules bianco doppio 60 medium low low low medium medium medium medium medium",
     "wordCloud": "Charts/VL38_Bianco Doppio_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL38_Bianco Doppio_Vertuo Feature Results.png",
-    "guides": "Guides/VL38_Bianco Doppio_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL38_Bianco%20Doppio_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Bianco Doppio",
@@ -7264,7 +7264,7 @@
     "textualInfo": "vertuo current barista creations ml coffee cappucino latte macchiato intense fullbodied 126 balanced intense fullbodied intense darkroasted coffee rich cereal notes especially crafted recipes remains powerful combination milk 20 30 30 30 long cup coffee big powerful roasted notes add generous dash milk find sweetness sits dynamic balance carefully crafted blend fine colombian kenyan arabicas give beans dark split roast highlight coffees rich roasted cereal notes arabica blend combines coffees kenya colombia costa rica one part blend gets long dark roast second part roasted little fast slightly light degree capsules roast ground coffee nespresso system roast ground coffee g 440 oz capsules bianco forte 70 medium medium medium medium medium low medium medium medium",
     "wordCloud": "Charts/VL39_Bianco Forte_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL39_Bianco Forte_Vertuo Feature Results.png",
-    "guides": "Guides/VL39_Bianco Forte_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL39_Bianco%20Forte_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Chiaro",
@@ -7347,7 +7347,7 @@
     "textualInfo": "vertuo current barista creations ml coffee iced recipe intense recipes ice 135 roasted peppery note barista creations ice forte carries distinct roasted character truly awaken senses cereal woody peppery notes lace cup deliver rich iced coffee experience love enjoy intense taste barista creations ice forte refreshing coffee ice south american arabicas mix indonesian ethiopian arabicas offer impactful aromatic experience dark roasted ground specifically delicious coffee ice best served coffee capsule ml cup full ice cubes g prolong pleasure top cold water cold milk ml arabica blend made mostly combination colombian indonesian ethiopian beans part blend gets medium roast keep flavour complexity intact part gets long dark roast delivers intensity bold body capsules roast ground coffee nespresso system roast ground coffee g 440 oz capsules ice forte 70 medium medium medium medium medium medium medium medium medium",
     "wordCloud": "Charts/VL40_Ice Forte_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL40_Ice Forte_Vertuo Feature Results.png",
-    "guides": "Guides/VL40_Ice Forte_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL40_Ice%20Forte_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Scuro",
@@ -7430,7 +7430,7 @@
     "textualInfo": "vertuo current barista creations ml double espresso mild recipes ice 115 cereal chill light thirstquenching fruitiness refreshing iced coffee experience paired rounded cereal note love enjoy delicate fruity cereal notes barista creations ice leggero elegant flavours ethiopian arabica blend refresh like gentle summer breeze pour ice roast lightly grind specifically deliver cool delicate taste palate best served coffee capsule ml cup full ice cubes g prolong pleasure top cold water cold milk ml arabica blend gets coffee mostly ethiopia indonesia first part blend gets light short roast enhance floral notes typical ethiopian arabica second gets medium roast bring balance roundness cup capsules flavoured roast ground coffee nespresso system roast ground coffee g 352 oz capsules ice leggero 50 medium medium medium medium medium medium medium medium medium",
     "wordCloud": "Charts/VL41_Ice Leggero_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL41_Ice Leggero_Vertuo Feature Results.png",
-    "guides": "Guides/VL41_Ice Leggero_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL41_Ice%20Leggero_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Ice Leggero",
@@ -7513,7 +7513,7 @@
     "textualInfo": "vertuo current long coffee ml coffee toasted cereal biscuity notes vitamin b12 150 cereal biscuity smooth round coffee classic cereal note honeyed sweetness find notes love great taste melozio vivida coffee savour vivida anytime day hot cold black milk customize coffee experience match preferences 10 20 30 30 vivida invites coffee ritual wellbeing smooth taste fine latin american arabicas meets benefits vitamin b12 vitamin b12 contributes normal functioning immune system complemented blend brazilian arabica luxurious sweet cereal note vivida treat great day vitamin b12 support immune health capsule vivida gives recommended daily value enjoy part varied balanced diet capsules flavoured roast ground coffee vitamin b12 nespresso system roast ground coffee natural flavours g 440 oz capsules vivida 60 medium low low medium medium medium medium medium medium",
     "wordCloud": "Charts/VL42_Vivida_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL42_Vivida_Vertuo Feature Results.png",
-    "guides": "Guides/VL42_Vivida_Current.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL42_Vivida_Current.pdf",
     "recommendations": [
       {
         "uniqueName": "Half Caffeinato",
@@ -7596,7 +7596,7 @@
     "textualInfo": "vertuo current online exclusive espresso ml ristretto intensely roasted berry 90 88 berry cocoa intense intense coffee strikes elegant balance roasty fruity aromas outlined distinctive roasted cocoa note 30 40 40 30 ristretto classico intricate allarabica blend beans honduras el salvador guatemala get dark roast make short shot contender classic ristretto experience roasted fruity notes punching weight delivers lingering notes roasted cocoa ristretto classico crafted using blend topgrade fully washed arabicas honduras el salvador guatemala coffee roasted single batch inspired traditional ristretto recipes short yet dark roast allows develop intensity preserving fruitiness capsules roast ground coffee roast ground coffee g 246 oz capsules ristretto classico 90 dark medium high high medium medium medium medium medium",
     "wordCloud": "Charts/VL43_Ristretto Classico_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL43_Ristretto Classico_Vertuo Feature Results.png",
-    "guides": "Guides/VL43_Ristretto Classico_Current (Online Exclusive).pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL43_Ristretto%20Classico_Current%20%28Online%20Exclusive%29.pdf",
     "recommendations": [
       {
         "uniqueName": "Stockholm Lungo",
@@ -7679,7 +7679,7 @@
     "textualInfo": "vertuo limited barista creations ml coffee hazelnut flavoured coffee 150 hazelnut elegant roasted hazelnut flavour brings artistry fine patisserie smooth flavoured coffee 20 30 30 30 elegance roasted hazelnut flavourwith sweet top notes praline delicate vanillafinds creative expression infinitely gourmet bring together cerealnoted arabicas latin america africa give blend bespoke roast smooth coffee delicious hazelnut flavour comes craft combination tastes aromas reminiscent fine patisserie chef creations add dash milk make creamy coffee treat cocreated avantgarde french pastry chef pierre hermé festive collection bold delicious collection combines exceptional patisserie knowhow art elevating coffee indulge delicious flavours available limited time capsules artificially flavoured hazelnut roast ground coffee roast ground coffee artificial flavours g 440oz capsules infinitely gourmet 50 medium low medium medium medium medium medium medium medium",
     "wordCloud": "Charts/VL44_Infinitely Gourmet_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL44_Infinitely Gourmet_Vertuo Feature Results.png",
-    "guides": "Guides/VL44_Infinitely Gourmet_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL44_Infinitely%20Gourmet_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Pumpkin Spice Cake (Vertuo)",
@@ -7762,7 +7762,7 @@
     "textualInfo": "vertuo limited summer coffees ml double espresso iced recipe almond vanilla flavoured 135 almond vanilla refreshing thirstquenching iced coffee delicious almond vanilla notes reminiscent amaretti vanilla custard smooth refreshing taste sunny almond vanilla ice us cruising mediterranean summer lightroast blend arabicas anchors season sunkissed flavour coffee made ice crafted nespresso one brings shades sunny almond glow sweet vanilla summer best served coffee capsule ml cup full ice cubes gr extend treat top cold water cold milk ml arabica blend gets coffee mostly ethiopia indonesia first part blend gets light short enhance delicate notes typical ethiopian arabica second gets medium roast bring balance roundness cup capsules roast ground coffee roast ground coffee g 353 oz capsules sunny almond vanilla ice 50 medium medium medium medium medium medium medium medium medium",
     "wordCloud": "Charts/VL45_Sunny Almond Vanilla Over Ice_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL45_Sunny Almond Vanilla Over Ice_Vertuo Feature Results.png",
-    "guides": "Guides/VL45_Sunny Almond Vanilla Over Ice_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL45_Sunny%20Almond%20Vanilla%20Over%20Ice_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Rich Chocolate",
@@ -7845,7 +7845,7 @@
     "textualInfo": "vertuo limited summer coffees ml coffee ice recipe coconut vanilla flavours 150 coconut vanilla delicious coconut flavour soft hint vanilla harmoniously combined smooth rounded arabica blend tropical coconut flavour ice brings taste tropics home refreshing coconut flavor splashes caramelly notes latin american african arabica blend exotic coffee ice sweet vanilla note makes true treat refreshing iced coffee experience arabica blend gets beans latin america africa coming brazil ethiopia latin american beans roasted medium dark quickly develop sweetness coffees roasted bit long develop velvety texture add flavour roasting capsules artificially flavoured roast ground coffe roast ground coffee artificial flavours g 440 oz capsules tropical coconut flavour ice 50 medium medium medium medium medium medium medium medium medium",
     "wordCloud": "Charts/VL46_Tropical Coconut Flavour Over Ice_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL46_Tropical Coconut Flavour Over Ice_Vertuo Feature Results.png",
-    "guides": "Guides/VL46_Tropical Coconut Flavour Over Ice_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL46_Tropical%20Coconut%20Flavour%20Over%20Ice_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Tropical Coconut Flavour Over Ice",
@@ -7928,7 +7928,7 @@
     "textualInfo": "vertuo limited espresso ml double espresso orange blossom citrus 1875 citrus floral orange blossom experience exclusive rare singleorigin specialty coffee balanced like fresh garden fine terroir elevations colombia 40 20 20 20 discover precious coffee world rich complex neverbefore tasted experience fruit years art coffee journey senses look velvety silky delicate crema amber hues golden reflections smell floral fruity bouquet evoking smells fragrant garden refreshing rain end day taste first sip enjoy unique notes orange blossom fresh citrus aromas emerging coffeehow discover precious coffee world unique coffee 20year expertise encapsulates one coffee capsule arabica new variety arabica beans created nespresso meticulously selected beans coffee unique coffee achieved cross planting two fine arabica coffees grown select famers capsules roast ground coffee roast ground coffee g 169 oz capsules no20 vertuo 60 medium high low low low medium medium medium medium",
     "wordCloud": "Charts/VL47_No.20_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL47_No.20_Vertuo Feature Results.png",
-    "guides": "Guides/VL47_No.20_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL47_No.20_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Kahawa Ya Congo (Original)",
@@ -8011,7 +8011,7 @@
     "textualInfo": "vertuo limited long coffee ml coffee fruity biscuity 60 170 balanced fruity biscuity sweet cereal smooth coffee mild fruity notes sweet cereal nutty aromas 20 20 20 30 kahawa ya congo comes organic coffee reviving origins umbrella rain rich volcanic soils kivu lakeshores fertile ground congo s farmers bring mild coffee s fruity sweet cereal notes years continued conflict political instability leave many plantation abandoned smallholder farmers tapping small raction congo s potential specialty coffee nespresso reviving origins program joins together south kivu farmers partners support coffee communities raising congo coffee full stature reviving origins congo still carce treasure behold year ll bring smooth coffee mild fruity note alluring sweet cereal nutty aromas arabica coffee sourced rich lake kivu shores eastern congo roast coffee batches although overall medium roast profile small portion coffees get dark roast bring intensity body capsules roast ground coffee roast ground coffee g 197 oz capsules kahawa ya congo vertuo 60 medium low low low medium medium medium medium medium",
     "wordCloud": "Charts/VL48_Kahawa Ya Congo_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL48_Kahawa Ya Congo_Vertuo Feature Results.png",
-    "guides": "Guides/VL48_Kahawa Ya Congo_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL48_Kahawa%20Ya%20Congo_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Pumpkin Spice Cake (Original)",
@@ -8094,7 +8094,7 @@
     "textualInfo": "vertuo limited barista creations ml coffee pumpkin spices flavoured 150 flavoured spicy pumpkin cardamom delicious sweet pumpkin flavour combined wide range spicy notes cloves cinnamon cardamom cakelike sweetness 30 20 20 20 enjoy warming spice notes sweet pumpkin flavour smooth arabica base blend made naturally sweet beans brazil lively washed beans colombia brazilian coffee lightly roasted keep smooth malted cereal notes intact majority colombian coffee beans get short roast release fine aromatics add flavour roasting capsules flavoured roast ground coffee pumpkin spice flavoured roast ground coffee natural flavours g 440 oz capsules pumpkin spice cake vertuo 50 medium medium low low low medium medium medium medium",
     "wordCloud": "Charts/VL49_Pumpkin Spice Cake_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL49_Pumpkin Spice Cake_Vertuo Feature Results.png",
-    "guides": "Guides/VL49_Pumpkin Spice Cake_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL49_Pumpkin%20Spice%20Cake_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Unforgettable Espresso",
@@ -8177,7 +8177,7 @@
     "textualInfo": "vertuo limited barista creations ml coffee iced recipe milk recipe maple pecan flavoured 140 pecan nut maple syrup see rich crema signature vertuo coffees ready folded release indulgent aromas smell subtle blend sweet maple nutty pecan quality coffee taste delicious subtle maple pecan flavour blend balanced cereallike coffee base 20 30 30 30 raw ingredients meeting harmony artifical flavours added sugars allergens subtle nutty flavour enjoy sourced brazil ethiopia arabica blend ethically sourced aaa sustainable quality program medium roast latin american beans roasted medium dark quickly develop sweetness coffees roasted bit long develop velvety texture capsules flavoured roast ground coffee maple pecan flavour natural flavours roast ground coffee natural flavours g 440 oz capsules maple pecan 50 medium low medium medium medium medium medium medium medium",
     "wordCloud": "Charts/VL50_Maple Pecan_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL50_Maple Pecan_Vertuo Feature Results.png",
-    "guides": "Guides/VL50_Maple Pecan_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL50_Maple%20Pecan_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Gingerbread",
@@ -8260,7 +8260,7 @@
     "textualInfo": "vertuo limited barista creations ml coffee candied sweet 150 peppermint sweet candy flavoured peppermint flavoured coffee enchanting candysweet notes reminiscent festive candy 30 20 20 20 love barista creations flavoured peppermint pinwheel enchant peppermint candy sweetness elegant peppermint flavour runs like ribbon smooth blend latin american african arabicas like red white candy cane enjoy reversoa dash cold milk makes peppermint flavour sparkle flavour peppermint come life creamy blend latin american african coffees characteristic sweetness peppermint candies latin american benas roasted medium dark quickly develop sweetness coffees roasted bit long develop velvety texture add flavour roasting capsules flavoured blend halfdecaffeinated regular roast ground coffee roast ground coffee artificial peppermint flavour g 440 oz capsules peppermint pinwheel 50 medium medium low low low medium medium medium medium",
     "wordCloud": "Charts/VL51_Peppermint Pinwheel_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL51_Peppermint Pinwheel_Vertuo Feature Results.png",
-    "guides": "Guides/VL51_Peppermint Pinwheel_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL51_Peppermint%20Pinwheel_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Peppermint Pinwheel",
@@ -8343,7 +8343,7 @@
     "textualInfo": "vertuo limited barista creations ml coffee gingerbread spice 150 cereal spicy ginger cardamom flavoured spicy taste gingerbreadflavored coffee warm complement coffee s rounded cereal notes featuring hints cloves cinnamon cardamom 20 30 30 30 love gingerbread flavour runs smooth base blend latin american african arabicas spicy taste ginger hugging coffees rounded cereal note enjoy reversoa dash cold milk brings ginger flavour more blend combines latin american african arabicas balanced rounded taste brazilian coffee adds richness ethiopian coffee brings delicate aromatics touch spicy ginger adds warmth flavour profile latin american beans roasted medium dark quickly develop sweetness coffees roasted bit long develop velvety texture add flavour roasting capsules flavoured blend halfdecaffeinated regular roast ground coffee roast ground coffee artificial gingerbread flavour g 440 oz capsules gingerbread 50 medium low medium medium medium medium medium medium medium",
     "wordCloud": "Charts/VL52_Gingerbread_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL52_Gingerbread_Vertuo Feature Results.png",
-    "guides": "Guides/VL52_Gingerbread_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL52_Gingerbread_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Peppermint Pinwheel",
@@ -8426,7 +8426,7 @@
     "textualInfo": "vertuo limited double espresso ml double espresso toasted cereal woody 80 135 woody nutty intense coffee toasted cereal flavor reminiscent bread crust secondary woody note adds depth hint nutty notes brown spices provide gives personality blend 20 40 40 40 created collaboration chef jean imbert unforgettable double espresso like train journey latin america aromatic blend including peru costa rica emboldened robusta toasted cereal woody notes emerge first sip savour black delectable double espresso cappuccino taste luxury blend brings invitation awaken senses board nespresso festive odyssey inspired belmond journeys coffee created latin american coffees mainly peru costa rica add intensity blend using touch highgrade robusta coffee uses split roast technique create intensity complexity first split composed exclusively arabicas light second one mix arabicas robustas roasted dark develop body roastiness capsules regular roast ground coffee roast ground coffee g 352 oz capsules unforgettable double espresso 80 dark low high high high medium medium medium medium",
     "wordCloud": "Charts/VL53_Unforgettable Double Espresso_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL53_Unforgettable Double Espresso_Vertuo Feature Results.png",
-    "guides": "Guides/VL53_Unforgettable Double Espresso_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL53_Unforgettable%20Double%20Espresso_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Almond Croissant Flavour (Original)",
@@ -8509,7 +8509,7 @@
     "textualInfo": "vertuo limited barista creations ml coffee almond vanilla 150 almond vanilla indulgent coffee notes almond sweet vanilla smooth taste complemented notes brown caramel reminiscent pastries butter 20 20 20 20 created collaboration chef jean imbert allow almond croissant flavour transport heart paris flavoured coffee brazilian colombian blend releases almond buttery pastry notes evoking sense childhood memories jean imbert enjoy cappuccino let unleash almond notes invitation awaken senses board nespresso festive odyssey inspired belmond journeys smooth arabica base blend made naturally sweet beans brazil lively washed beans colombia brazilian coffee lightly roasted keep smooth malted cereal notes intact majority colombian coffee beans get short roast release fine aromatics capsules roast ground coffee almond naturalartifical flavours roast ground coffee 108g 38 oz capsules almond croissant flavour vertuo 50 medium low low low low medium medium medium medium",
     "wordCloud": "Charts/VL54_Almond Croissant Flavour_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL54_Almond Croissant Flavour_Vertuo Feature Results.png",
-    "guides": "Guides/VL54_Almond Croissant Flavour_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL54_Almond%20Croissant%20Flavour_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Peanut & Roasted Sesame Flavour",
@@ -8592,7 +8592,7 @@
     "textualInfo": "vertuo limited barista creations ml coffee cereal toasted sesame 150 toastedroasted sesame popcorn peanut aromatic sweet blend notes toasted sesame caramel mix nuts including peanuts cereallike undertones oat barley add toasty nutty flavor 20 20 20 20 created collaboration chef jean imbert peanut roasted sesame flavour tribute gastronomic voyages latin american african arabicas coffee concocts notes roasted sesame popcorn mix almonds hazelnuts peanuts making unmissable coffee festive season enjoy reverso let journey taste roll blond caramel notes invitation awaken senses board nespresso festive odyssey inspired belmond journeys smooth arabica base blend made naturally sweet beans brazil lively washed beans colombia brazilian coffee lightly roasted keep smooth malted cereal notes intact majority colombian coffee beans get short roast release fine aromatics capsules roast ground coffee peanut sesame flavour naturalartificial flavours roast ground coffee 108g 38 oz capsules peanut roasted sesame flavour vertuo 50 medium low low low low medium medium medium medium",
     "wordCloud": "Charts/VL55_Peanut and Roasted Sesame Flavour_Vertuo_Word Cloud.png",
     "featureResults": "Charts/VL55_Peanut and Roasted Sesame Flavour_Vertuo Feature Results.png",
-    "guides": "Guides/VL55_Peanut and Roasted Sesame Flavour_Limited.pdf",
+    "guides": "https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main//Guides/VL55_Peanut%20and%20Roasted%20Sesame%20Flavour_Limited.pdf",
     "recommendations": [
       {
         "uniqueName": "Intenso",
