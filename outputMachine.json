@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "name":"Aeroccino",
+        "type":"Accessory",
+        "link":"https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Machine%20Guides/Aeroccino.pdf"
+    },
+    {
+        "id":2,
+        "name":"Citiz",
+        "type":"Original",
+        "link":"https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Machine%20Guides/Citiz.pdf"
+    },
+    {
+        "id":3,
+        "name":"Creatista",
+        "type":"Original",
+        "link":"https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Machine%20Guides/Creatista.pdf"
+    },
+    {
+        "id":4,
+        "name":"Digital Barista Milk Frother",
+        "type":"Accessory",
+        "link":"https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Machine%20Guides/Digital%20Barista%20Milk%20Frother.pdf"
+    },
+    {
+        "id":5,
+        "name":"Essenza Mini",
+        "type":"Original",
+        "link":"https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Machine%20Guides/Digital%20Barista%20Milk%20Frother.pdf"
+    },
+    {
+        "id":6,
+        "name":"Inissia",
+        "type":"Original",
+        "link":"https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Machine%20Guides/Inissia.pdf"
+    },
+    {
+        "id":7,
+        "name":"Lattissima",
+        "type":"Original",
+        "link":"https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Machine%20Guides/Lattissima.pdf"
+    },
+    {
+        "id":8,
+        "name":"Pixie",
+        "type":"Original",
+        "link":"https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Machine%20Guides/Pixie.pdf"
+    },
+    {
+        "id":9,
+        "name":"Vertuo Creatista",
+        "type":"Vertuo",
+        "link":"https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Machine%20Guides/Vertuo%20Creatista.pdf"
+    },
+    {
+        "id":10,
+        "name":"Vertuo Deluxe Flat Head",
+        "type":"Vertuo",
+        "link":"https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Machine%20Guides/Vertuo%20Deluxe%20Flat%20Head.pdf"
+    },
+    {
+        "id":11,
+        "name":"Vertuo Lattissma",
+        "type":"Vertuo",
+        "link":"https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Machine%20Guides/Vertuo%20Lattissma.pdf"
+    },
+    {
+        "id":12,
+        "name":"Vertuo Next",
+        "type":"Vertuo",
+        "link":"https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Machine%20Guides/Vertuo%20Next.pdf"
+    },
+    {
+        "id":13,
+        "name":"Vertuo Pop+",
+        "type":"Vertuo",
+        "link":"https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Machine%20Guides/Vertuo%20Pop%2B.pdf"
+    },
+    {
+        "id":14,
+        "name":"Vertuo Round Head",
+        "type":"Vertuo",
+        "link":"https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Machine%20Guides/Vertuo%20Round%20Head.pdf"
+    },
+    {
+        "id":15,
+        "name":"VertuoPlus Deluxe",
+        "type":"Vertuo",
+        "link":"https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/blob/main/Machine%20Guides/VertuoPlus%20Deluxe.pdf"
+    }
+]
