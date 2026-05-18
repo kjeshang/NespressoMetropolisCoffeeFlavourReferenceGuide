@@ -3,7 +3,7 @@
 
 [Click Here](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main/Guides) to see the Coffee Flavour Reference Guides. For further insight regarding this project, keep reading! :)
 
-> This repository also contains coffee machine guides. [Click Here](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main/Machine%20Guides) to view.
+> This repository also contains coffee machine reference guides. [Click Here](https://github.com/kjeshang/NespressoMetropolisCoffeeFlavourReferenceGuide/tree/main/Machine%20Guides) to view.
 
 ## Table of Contents
 - [NespressoMetropolisCoffeeFlavourReferenceGuide](#nespressometropoliscoffeeflavourreferenceguide)
